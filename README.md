@@ -9,7 +9,8 @@ Installation :
 
 
 Participer à la traduction :
-  La traduction actuelle couvre l'essentiel du jeu mais il reste encore beaucoup à faire notamment au niveau du tutoriel et des missions. Grâce à GitHub vous pouvez aider à l'amélioration de la traduction. 
+
+La traduction actuelle couvre l'essentiel du jeu mais il reste encore beaucoup à faire notamment au niveau du tutoriel et des missions. Grâce à GitHub vous pouvez aider à l'amélioration de la traduction. 
 
 Vous devez d'abord créer un compte GitHub puis suivre ces étapes :
   - Cliquez sur le fichier Strings_fr.xml
