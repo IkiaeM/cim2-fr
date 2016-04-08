@@ -16,6 +16,6 @@ Vous devez d'abord créer un compte GitHub puis suivre ces étapes :
   - Cliquez ensuite sur l'icône crayon à droite de la fenêtre
   - Vous pouvez alors modifier le fichier
   - Une fois vos modifications effectuées, vous pouvez ajouter un commentaire résumant vos modifications
-  - Cliquez ensuite sur "Commit changes", cela va enregistrer vos modifications sur votre compte, pour
-      les envoyer ici, vous devez ensuite cliquer sur New Pull Request puis sur Create Pull Request.
-  - Une fois vérifié, vos modifications seront prises en compte
+  - Cliquez ensuite sur "Commit changes", cela va enregistrer vos modifications sur votre compte. Pour
+      les envoyer ici, vous devez ensuite cliquer sur "New Pull Request" puis sur "Create Pull Request".
+  - Une fois vérifiées, vos modifications seront prises en compte ici
