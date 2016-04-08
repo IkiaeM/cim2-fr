@@ -11593,30 +11593,30 @@
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_8_mrs. Zeman</m_id>
-      <m_text>Hello, how are you doing? I think there aren't enough metro lines in the city. Build one from the museum!</m_text>
+      <m_text>Bonjour, comment allez-vous ? Je pense que cette ville manque de lignes de métro. Construisez-en une au départ du musée !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_8_mrs. Zeman</m_id>
-      <m_text>Marvelous job! I'll be using that line every day!</m_text>
+      <m_text>Excellent travail ! Je vais pouvoir utiliser cette ligne tous les jours !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_9_Engineer Alexander</m_id>
-      <m_text>Public transportation is doing better, but there are still areas without connections. Build five new lines to connect the areas!</m_text>
+      <m_text>Les transports publics s'améliorent mais il y a toujours des zones non-connectées. Construisez cinq nouvelles lignes pour les connecter !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_9_Engineer Alexander</m_id>
-      <m_text>Cool! Soon, people will have no need for cars!</m_text>
+      <m_text>Cool ! Bientôt, plus personne n'aura besoin de voitures !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_10_mr. Myska</m_id>
-      <m_text>How fast you can transport 1000 citizens? Show me!</m_text>
+      <m_text>En combien de temps pouvez-vous transporter 1000 passagers ? Montrez-moi !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_10_mr. Myska</m_id>
-      <m_text>Good work! You have an excellent company!</m_text>
+      <m_text>Bien joué ! Vous avez une entreprise efficace !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_11_Engineer Alexandr</m_id>
-      <m_text>Thank you for the help! The city is busy and modern!</m_text>
+      <m_text>Merci pour votre aide ! La ville est animée et moderne !</m_text>
    </LocaleData>
 </ArrayOfLocaleData>
