@@ -11533,23 +11533,23 @@
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_11_Mayor Ctibor Bosko</m_id>
-      <m_text>Good job! The economy is growing!</m_text>
+      <m_text>Bon travail ! Notre économie est florissante !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_1_Keep up with the devel</m_id>
-      <m_text>Hello, how are you, my friend? I'm Ctibor Bosko, the mayor of the city. Our city's economic structure has shifted from the industrial to the service-oriented. Keep your company growing!</m_text>
+      <m_text>Bonjour, comment allez-vous mon ami ? Je me présente, Ctibor Bosko, le maire de cette ville. La structure économique de la ville est aujourd'hui tournée vers les services alors continuez de faire grandir votre entreprise !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_1_Keep up with the devel</m_id>
-      <m_text>Good work, you company is growing! These are the kinds of companies our economy needs!</m_text>
+      <m_text>Bien joué, votre entreprise prospère ! Voilà ce dont notre économie a besoin !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_2_mr. Slavik</m_id>
-      <m_text>Good transportation is all about the vehicles. You should consider the new vehicles!</m_text>
+      <m_text>De bons moyens de transport se sont avant tout de bons véhicules. Jetez donc un oeil aux nouveaux disponibles !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_2_mr. Slavik</m_id>
-      <m_text>Good choices! Remember to maintain them well.</m_text>
+      <m_text>Bons choix ! N'oubliez pas de bien les entretenir.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_3_mrs. Stratosta</m_id>
