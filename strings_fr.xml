@@ -11115,13 +11115,18 @@
       <m_id>MAP_NAME_europe_prague</m_id>
       <m_text>Influenced by Prague</m_text>
    </LocaleData>
+   
+   
+   
+   <!-- Objectifs -->
+   
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_1_We love tourists</m_id>
-      <m_text>How are you? I'm Annie Martins, a hotel entrepreneur. Tourism is an important part of the economy of our city. Make sure that all our citizens are well connected, and the city grows and stays interesting for our tourists.</m_text>
+      <m_text>Comment allez-vous ? Je m'appelle Annie Martins, je suis entrepreuneuse dans l'hôtellerie. Le tourisme est très important pour cette ville, veillez donc à ce que tous les habitants aient accès aux transportss, que la ville prospère et reste attractive pour les touristes.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_1_We love tourists</m_id>
-      <m_text>Thank you! Tourism here is a great success. Keep up the good work!</m_text>
+      <m_text>Merci ! Le tourisme est dynamique, continuez comme ça !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_2_Emil</m_id>
