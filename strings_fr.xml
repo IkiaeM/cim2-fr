@@ -11130,35 +11130,35 @@
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_2_Emil</m_id>
-      <m_text>Hello, I'd like to ask a bit of a favor. My friends and I thought we might do a little sightseeing. We would really love to have new tourist lines. I'm sure that would make you a ton of money!</m_text>
+      <m_text>Bonjour, est-ce que je peux vous demander une faveur ? Avec mes amis nous voudrions visiter un peu la ville et on adorerait avoir de nouvelles lignes pour les touristes. Je suis sûr que ça vous rapporterait beaucoup !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_2_Emil</m_id>
-      <m_text>Great, the tourists really love your company!</m_text>
+      <m_text>Génial, les touristes adorent votre entreprise !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_3_mrs. Smith</m_id>
-      <m_text>A fine city you have here! Listen, I'm visiting here for a while and I'd love to go shopping, but I can't find a line that will take me where I was planning to go. Maybe you could build one?</m_text>
+      <m_text>En voilà une jolie ville ! Ecoutez, je suis en ville pour quelques temps et j'aimerais aller faire des magasins mais je n'arrive pas à trouver une ligne qui aille où je voudrais aller.  Vous pourriez en créer une ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_3_mrs. Smith</m_id>
-      <m_text>Wow, quick work! That's really impressive! I'll check it out as soon as I can!</m_text>
+      <m_text>Oh, c'était rapide ! Très impressionant ! Je vais m'empresser de l'essayer !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_4_Ellie</m_id>
-      <m_text>Nice to meet you. I'm Ellie, from the tourist bureau. We've been receiving feedback that the public transportation vehicles are not modern enough. Maybe we should buy new ones!</m_text>
+      <m_text>Ravi de vous rencontrer. Je m'appelle Ellie, je travaille à l'office de tourisme. On reçoit beaucoup de commentaires sur la vétusté des véhicules de transport. Peut-être que vous pourriez en acheter de nouveaux ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_4_Ellie</m_id>
-      <m_text>Thanks! Now the city is an even nicer place to travel!</m_text>
+      <m_text>Merci beaucoup ! Se déplacer dans la ville est maintenant plus confortable !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_5_Jonas</m_id>
-      <m_text>Hello, my name is Jonas. I really love busses! There is no better way to travel to work. How many people you can transport by bus?</m_text>
+      <m_text>Salut, je m'appelle Jonas et j'adore les bus ! Il n'y a pas mieux pour aller travailler. Combien de passagers pouvez-vous transporter en bus ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_5_Jonas</m_id>
-      <m_text>Cool, you have some very popular bus lines in the city!</m_text>
+      <m_text>Cool, vous avez de super lignes de bus dans cette ville !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_6_Lisa</m_id>
