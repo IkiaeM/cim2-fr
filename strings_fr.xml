@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.1" encoding="UTF-8"?>
 <ArrayOfLocaleData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
                    export-date=""
@@ -4923,161 +4923,161 @@
       <m_id>TUTORIAL_TEXT_4</m_id>
       <m_text>
           
-          Choose the {b}Bus Tools{/b}, which can be found under the Construction menu by pressing the Bus Stop button. Later, there will be many different buildings that you can use, but right now we will use the most basic stop type. {b}Build a bus line{/b} now! Start by building the {b}Depot{/b} and placing the {b}Stops{/b}, and keep in mind that your line must start and end at the Depot. Try placing six stops and a Depot now!</m_text>
+          Choisissez les {b}Outils Bus{/b}, que vous trouverez dans le menu Construction en appuyant sur le bouton Arrêt de bus. Plus tard, il y aura de nombreux bâtiments différents que vous pourrez utiliser, mais pour l'instant nous utiliserons le type d'arrêt le plus basique. Construisez une ligne de bus dès maintenant ! Commencez par construire le dépôt {b} et placer les arrêts {b}, et gardez à l'esprit que votre ligne doit commencer et se terminer au dépôt. Essayez de placer six arrêts et un dépôt maintenant !</m_text>
    </LocaleData>
     
     
    <LocaleData>
       <m_id>TUTORIAL_TITLE_5</m_id>
-      <m_text>Build a bus line II</m_text>
+      <m_text>Construire une ligne de bus II</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>TUTORIAL_TEXT_5</m_id>
-      <m_text>Open the Transportation panel and {b}create a new bus line{/b}. Choose Add Stops, then begin with the Depot, and add the stops in the order you want the vehicle to visit them. The white circle around the stop indicates the {b}catchment area{/b}, meaning how far people are willing to walk to get to the stop. If you want your line to run quite often, you might wish to choose the first stop again at the end of the line. This way the vehicle will continue another circuit immediately, if the line needs it, skipping its stop by the Depot. {b}Close the line{/b} by guiding the bus back to the {b}Depot{/b}.</m_text>
+      <m_text>Ouvrez le panneau "Transports" et créez une nouvelle ligne de bus. Cliquez sur Ajouter des arrêts, puis commencez par le dépôt et ajoutez les arrêts dans l'ordre dans lequel vous voulez que le véhicule les visite. Le cercle blanc autour de l'arrêt indique la zone d'attraction {b}, c'est-à-dire la distance que les gens sont prêts à parcourir à pied pour se rendre à l'arrêt. Si vous souhaitez que votre ligne soit assez fréquentée, vous pouvez choisir le premier arrêt à la fin de la ligne. De cette façon, le véhicule continuera immédiatement un autre circuit, si la ligne en a besoin, en sautant son arrêt au Dépôt. Fermez la ligne {/b} en guidant le bus jusqu'au dépôt {b}.</m_text>
    </LocaleData>
     
     
    <LocaleData>
       <m_id>TUTORIAL_TITLE_6</m_id>
-      <m_text>Build a bus line III</m_text>
+      <m_text>Construire une ligne de bus III</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>TUTORIAL_TEXT_6</m_id>
-      <m_text>Next, click your bus depot and {b}buy three vehicles{/b}. You can see the estimated number of vehicles the line needs by checking the info page in the line window. Keep in mind that the Depot can only service a certain number of vehicles. You can have more stored there, but the mechanics won't have enough time to keep all in top condition. After you have purchased your vehicles, {b}the line will automatically start to run{/b} according to the timetable. You can adjust the timetables whenever you like. To {b}stop the line{/b} temporarily, click the small green circle icon next to the line in the Lines panel. The circle will turn to red, meaning the line has been stopped.</m_text>
+      <m_text>Ensuite, cliquez sur votre dépôt de bus et {b} achetez trois véhicules{/b}. Vous pouvez voir le nombre estimé de véhicules dont la ligne a besoin en consultant la page d'information dans la fenêtre de la ligne. N'oubliez pas que le dépôt ne peut desservir qu'un certain nombre de véhicules. Vous pouvez y faire entreposer un plus grand nombre de véhicules, mais les mécaniciens n'auront pas assez de temps pour les maintenir tous en bon état. Une fois que vous aurez acheté vos véhicules, {b} la ligne commencera automatiquement à fonctionner{/b} selon l'horaire. Vous pouvez ajuster les horaires quand vous le souhaitez. Pour {b} arrêter temporairement la ligne{/b}, cliquez sur le petit cercle vert à côté de la ligne dans le panneau Lignes. Le cercle devient rouge, ce qui signifie que la ligne a été arrêtée.</m_text>
    </LocaleData>
     
     
    <LocaleData>
       <m_id>TUTORIAL_TITLE_7</m_id>
-      <m_text>Adjust the timetable</m_text>
+      <m_text>Adapter le calendrier</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>TUTORIAL_TEXT_7</m_id>
-      <m_text>Looks like your line could do with longer breaks between vehicles! Go to the {b}Transport panel{/b} and open the bus line by clicking on it. Press the {b}little clock icon{/b} to open the window for adjusting the timetable. Add some more time between vehicle departures. Once you have a line going, take a look at how full the vehicles tend to be. If they are half empty, you should adjust the line to run less frequently. If people are packed in like sardines, you should dispatch vehicles more often.</m_text>
+      <m_text>On dirait que votre ligne pourrait faire l'objet de pauses plus longues entre les véhicules ! Allez dans le panneau {b}Transport{/b} et ouvrez la ligne de bus en cliquant dessus. Appuyez sur l'icône {b}de la petite horloge{/b} pour ouvrir la fenêtre permettant d'ajuster l'horaire. Ajoutez un peu plus de temps entre les départs des véhicules. Une fois la ligne ouverte, regardez à quel point les véhicules ont tendance à être pleins. S'ils sont à moitié vides, vous devriez ajuster la ligne pour qu'elle fonctionne moins souvent. Si les gens sont entassés comme des sardines, vous devriez envoyer les véhicules plus souvent.</m_text>
    </LocaleData>
     
     
    <LocaleData>
       <m_id>TUTORIAL_TITLE_8</m_id>
-      <m_text>Build a road</m_text>
+      <m_text>Construire une route</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>TUTORIAL_TEXT_8</m_id>
-      <m_text>You may sometimes find yourself in a situation where there's no good way to arrange a route. If you get stuck like this, here's a little trick: {b}build a new road{/b}! You can choose from many different types, and everything affects the flow of traffic in the city. Large {b}avenues{/b} come with traffic lights and have much greater capacity than smaller roads. {b}Small roads{/b} have intersections without traffic lights, and thus are the faster option when you are building in a low-traffic area.</m_text>
+      <m_text>Vous pouvez parfois vous retrouver dans une situation où il n'y a pas de bon moyen d'organiser un itinéraire. Si vous êtes bloqué comme ça, voici un petit truc : construisez une nouvelle route ! Vous pouvez choisir parmi de nombreux types différents, et tout affecte le flux de circulation dans la ville. Les grandes routes sont équipées de feux de circulation et ont une capacité beaucoup plus importante que les petites routes. Les petites routes ont des intersections sans feux de circulation et sont donc plus rapides lorsque vous construisez dans une zone à faible trafic.</m_text>
    </LocaleData>
     
     
    <LocaleData>
       <m_id>TUTORIAL_TITLE_9</m_id>
-      <m_text>Build a tram line</m_text>
+      <m_text>Construire une ligne de tramway I</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>TUTORIAL_TEXT_9</m_id>
-      <m_text>Very well done! Now, {b}trams{/b} are a bit different from buses: they need tracks to run on. Why don't you try your hand at building a line for them? Just choose roads from the {b}Tools panel{/b} and select the tracks. You can lay single tracks or double tracks, whatever you wish! To connect tracks over intersections, first click on the track piece you want to connect, and then select the place where you want it to go.</m_text>
+      <m_text>Très bien fait ! Maintenant, les tramways sont un peu différents des bus : ils ont besoin de rails pour rouler. Pourquoi ne pas essayer de construire une ligne pour eux ? Il suffit de choisir des routes dans le panneau {b}Tools{/b} et de sélectionner les voies. Vous pouvez poser des voies simples ou doubles, comme vous le souhaitez ! Pour relier des voies à des intersections, cliquez d'abord sur le morceau de voie que vous voulez relier, puis sélectionnez l'endroit où vous voulez qu'il aille.</m_text>
    </LocaleData>
     
     
    <LocaleData>
       <m_id>TUTORIAL_TITLE_10</m_id>
-      <m_text>Build a tram line II</m_text>
+      <m_text>Construire une ligne de tramway II</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>TUTORIAL_TEXT_10</m_id>
-      <m_text>When your tracks are all built, you can add {b}stops{/b} and a {b}Depot{/b}, just like for a bus line. These can be found under the tram icon in the {b}Tools{/b} panel. Be mindful of which side of the tracks you place each stop, so your trams can reach it. Try adding eight stops now. Remember to connect the Depot to the tracks to make sure your trams can reach the line!</m_text>
+      <m_text>Lorsque vos voies sont toutes construites, vous pouvez ajouter des {b}arrêt{/b} et un {b} dépôt{/b}, comme pour une ligne de bus. Vous les trouverez sous l'icône du tramway dans le panneau {b}Outils{/b}. Faites attention au côté des voies que vous placez à chaque arrêt, afin que vos trams puissent l'atteindre. Essayez d'ajouter huit arrêts maintenant. N'oubliez pas de relier le dépôt aux voies ferrées pour que vos trams puissent atteindre la ligne !</m_text>
    </LocaleData>
     
     
    <LocaleData>
       <m_id>TUTORIAL_TITLE_11</m_id>
-      <m_text>Build a tram line III</m_text>
+      <m_text>Construire une ligne de tramway III</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>TUTORIAL_TEXT_11</m_id>
-      <m_text>Open the {b}Transport{/b} panel and add a new tram line. Choose {b}Add stops{/b} and start by clicking on the {b}Depot{/b} to make it the first stop. Choose the stops in the order you want the tram to visit them, and then choose the Depot again to complete the line.</m_text>
+      <m_text>Ouvrez le panneau {b}Transport{/b} et ajoutez une nouvelle ligne de tram. Cliquez sur {b}Ajouter des arrêts{/b} et commencez par cliquer sur le {b}Dépôt{/b} pour en faire le premier arrêt. Choisissez les arrêts dans l'ordre dans lequel vous voulez que le tramway les visite, puis choisissez à nouveau le Dépôt pour compléter la ligne.</m_text>
    </LocaleData>
     
     
    <LocaleData>
       <m_id>TUTORIAL_TITLE_12</m_id>
-      <m_text>Build a tram line IV</m_text>
+      <m_text>Construire une ligne de tramway IV</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>TUTORIAL_TEXT_12</m_id>
-      <m_text>Click on the {b}Depot{/b} to open it, or select it from the {b}Transport{/b} panel, and then buy enough vehicles to get your line going. You can always check how many vehicles your line needs by looking at the line window. For now, buy three trams.</m_text>
+      <m_text>Cliquez sur le {b}Dépôt{/b} pour l'ouvrir, ou sélectionnez-le dans le panneau {b}Transport{/b}, puis achetez suffisamment de véhicules pour faire fonctionner votre ligne. Vous pouvez toujours vérifier le nombre de véhicules dont votre ligne a besoin en regardant la fenêtre de la ligne. Pour l'instant, achetez trois trams.</m_text>
    </LocaleData>
     
     
    <LocaleData>
       <m_id>TUTORIAL_TITLE_13</m_id>
-      <m_text>Take a loan</m_text>
+      <m_text>Faire un emprunt</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>TUTORIAL_TEXT_13</m_id>
-      <m_text>Sometimes you need to {b}take a loan{/b} to handle the up-front expenses to get your company going. Banks offer you loans, so you should check out the possibilities. Don't be afraid to take on loans, as they offer you a great chance to build bigger! Try it out! Take out a loan by selecting the option in the {b}Economy{/b} panel.</m_text>
+      <m_text>Parfois, vous devez faire appel à un prêt pour couvrir les frais initiaux de démarrage de votre entreprise. Les banques vous proposent des prêts, vous devriez donc vérifier les possibilités. N'ayez pas peur de prendre des prêts, car ils vous offrent une grande chance de construire plus grand ! Essayez-le ! Pour contracter un prêt, sélectionnez l'option dans le panneau {b}Economie{/b}.</m_text>
    </LocaleData>
     
     
    <LocaleData>
       <m_id>TUTORIAL_TITLE_14</m_id>
-      <m_text>Look at Graphs panel</m_text>
+      <m_text>Voir le panneau "Graphiques</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>TUTORIAL_TEXT_14</m_id>
-      <m_text>There's lots of information available, which shows how your company is doing. Have a look at the {b}Graphs{/b} panel, which is situated in the bottom bar. You can find many different graphs about your company and the city, such as how your coverage has developed and how the city is growing. Open the Company Value graph.</m_text>
+      <m_text>De nombreuses informations sont disponibles, qui montrent comment votre entreprise se porte. Jetez un coup d'œil au panneau {b}Graphes{/b}, qui se trouve dans la barre inférieure. Vous pouvez y trouver de nombreux graphiques différents sur votre entreprise et la ville, comme par exemple l'évolution de votre couverture et la croissance de la ville. Ouvrez le graphique sur la valeur de l'entreprise.</m_text>
    </LocaleData>
     
     
    <LocaleData>
       <m_id>TUTORIAL_TITLE_15</m_id>
-      <m_text>Adjust ticket prices</m_text>
+      <m_text>Ajuster le prix des billets</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>TUTORIAL_TEXT_15</m_id>
-      <m_text>Pricing is also of great importance. To pay your loans, you might need to adjust {b}ticket prices{/b}. Also note that the economic situation is likely to change every once in a while. Keep an eye out for displeased passengers and adjust your prices accordingly! Just now you could {b}lower them a bit{/b}, lets say by .20 for now. You can adjust single ticket prices, multi-zone tickets for every vehicle type separately, or you can simply raise or lower all prices.</m_text>
+      <m_text>La tarification est également d'une grande importance. Pour payer vos emprunts, vous devrez peut-être ajuster les prix des billets {b}. Notez également que la situation économique est susceptible de changer de temps en temps. Gardez un œil sur les passagers mécontents et ajustez vos prix en conséquence ! Vous pourriez à l'instant les baisser un peu, disons de 0,20 pour l'instant. Vous pouvez ajuster les prix des billets simples, des billets multizones pour chaque type de véhicule séparément, ou vous pouvez simplement augmenter ou baisser tous les prix.</m_text>
    </LocaleData>
     
     
    <LocaleData>
       <m_id>TUTORIAL_TITLE_16</m_id>
-      <m_text>Set price zones</m_text>
+      <m_text>Fixer des zones de prix</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>TUTORIAL_TEXT_16</m_id>
-      <m_text>You can set customized ticket {b}price zones{/b}. Just use the {b}Zone{/b} tool and paint the zones however you like. You can have up to four different prize zones. In small towns, zones are not very useful, but {b}they are essential in large cities{/b}. You can set the price of inter-zone tickets in the {b}Economy{/b} panel under Ticket Prices.</m_text>
+      <m_text>Vous pouvez définir des zones tarifaires personnalisées pour les billets {b}. Il suffit d'utiliser l'outil {b}Zone{/b} et de peindre les zones comme vous le souhaitez. Vous pouvez avoir jusqu'à quatre zones de prix différentes. Dans les petites villes, les zones ne sont pas très utiles, mais {b} elles sont essentielles dans les grandes villes{/b}. Vous pouvez fixer le prix des billets inter-zones dans le panneau {b}Economie{/b} sous Prix des billets.</m_text>
    </LocaleData>
     
     
    <LocaleData>
       <m_id>TUTORIAL_TITLE_17</m_id>
-      <m_text>Adjust wages</m_text>
+      <m_text>Ajuster les salaires</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>TUTORIAL_TEXT_17</m_id>
-      <m_text>You also control the {b}wages{/b} paid to your employees. Higher wages bring a variety of benefits. For example, mechanics with higher wages use their time more efficiently and can thus take care of more vehicles. Have a look at the wages by opening the {b}Economy{/b} panel, and give everyone a .20 wage increase.</m_text>
+      <m_text>Vous contrôlez également les {b} salaires{/b} versés à vos employés. Des salaires plus élevés apportent divers avantages. Par exemple, les mécaniciens mieux payés utilisent leur temps de manière plus efficace et peuvent ainsi s'occuper d'un plus grand nombre de véhicules. Examinez les salaires en ouvrant le panneau {b}Economie{/b}, et donnez à chacun une augmentation de salaire de 0,20.</m_text>
    </LocaleData>
     
     
    <LocaleData>
       <m_id>TUTORIAL_TITLE_18</m_id>
-      <m_text>Complete an objective</m_text>
+      <m_text>Réaliser un objectif</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>TUTORIAL_TEXT_18</m_id>
-      <m_text>Every scenario has an {b}objective{/b} which you must meet to proceed with the campaign or finish the scenario. You can see the objectives by clicking on the {b}Objectives{/b} tab on the left edge of the screen. This tab shows you how close you are to your goal, and by clicking on it you can consider the task once again to refresh your memory. Now it's time to {b}complete the objective{/b} and finish the tutorial!</m_text>
+      <m_text>Chaque scénario a un {b}objectif{/b} que vous devez atteindre pour poursuivre la campagne ou terminer le scénario. Vous pouvez voir les objectifs en cliquant sur l'onglet {b}Objectifs{/b} sur le bord gauche de l'écran. Cet onglet vous indique à quel point vous êtes proche de votre objectif et, en cliquant dessus, vous pouvez à nouveau envisager la tâche pour vous rafraîchir la mémoire. Il est maintenant temps de {b}compléter l'objectif{/b} et de terminer le tutoriel !</m_text>
    </LocaleData>
     
     
    <LocaleData>
       <m_id>TUTORIAL_TITLE_19</m_id>
-      <m_text>Completed</m_text>
+      <m_text>Terminé</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>TUTORIAL_TEXT_19</m_id>
-      <m_text>You have now completed the tutorial! Press {b}Next{/b} to start playing.</m_text>
+      <m_text>Vous avez maintenant terminé le tutoriel ! Appuyez sur {b}Suivant{/b} pour commencer à jouer.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_TutorialObjective</m_id>
-      <m_text>Build a metro line to complete the tutorial.</m_text>
+      <m_text>Construisez une ligne de métro pour compléter le tutoriel.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id/>
@@ -5091,23 +5091,23 @@
    </LocaleData>
    <LocaleData>
       <m_id>MAP_NAME_central_city</m_id>
-      <m_text>Central City</m_text>
+      <m_text>Central city</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>MAP_NAME_east_city</m_id>
-      <m_text>East City</m_text>
+      <m_text>East city</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>MAP_NAME_north_city</m_id>
-      <m_text>North City</m_text>
+      <m_text>Nord city</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>MAP_NAME_west_city</m_id>
-      <m_text>West City</m_text>
+      <m_text>West city</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>MAP_NAME_south_city</m_id>
-      <m_text>South City</m_text>
+      <m_text>South city</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>CAMPAIGN_NAME_default</m_id>
@@ -5121,47 +5121,47 @@
     
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_BigCityLights01</m_id>
-      <m_text>Good day to you! I'm Stephanie York, the mayor of the city. We are so glad to have you here! The citizens have been asking for a public transport system for a long time! For me, the most important thing is to keep citizens happy and make the city grow. You can get to work immediately!</m_text>
+      <m_text>Bonne journée à vous ! Je suis Stephanie York, la maire de la ville. Nous sommes très heureux de vous avoir ici ! Les citoyens demandent un système de transport public depuis longtemps ! Pour moi, la chose la plus importante est de garder les citoyens heureux et de faire grandir la ville. Vous pouvez vous mettre au travail immédiatement !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_BigCityLightsPassed</m_id>
-      <m_text>Excellent work, I'm impressed! Lets see what else we can achieve together.</m_text>
+      <m_text>Excellent travail, je suis impressionné ! Voyons ce que nous pouvons encore réaliser ensemble.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>SCENARIO_NAME_default-02-jealousy</m_id>
-      <m_text>Jealousy</m_text>
+      <m_text>Jalousie</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_Jealousy01</m_id>
-      <m_text>Some citizens are jealous because they don't have as good connections as those who live in another part of the city. That's why I think coverage should be one of your main concerns.</m_text>
+      <m_text>Certains citoyens sont jaloux parce qu'ils n'ont pas d'aussi bonnes relations que ceux qui vivent dans un autre quartier de la ville. C'est pourquoi je pense que la couverture devrait être l'une de vos principales préoccupations.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_JealousyPassed</m_id>
-      <m_text>That's great! Everyone is so pleased!</m_text>
+      <m_text>C'est génial ! Tout le monde est tellement content !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>SCENARIO_NAME_default-03-tinytown</m_id>
-      <m_text>Tiny Town</m_text>
+      <m_text>Petite ville</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_TinyTown01</m_id>
-      <m_text>Welcome to our little town! My name is Ivanovic, and I currently run the city. I'm so glad you have come! There is much to do. We don't have any transport system at present, so anything goes.</m_text>
+      <m_text>Bienvenue dans notre petite ville ! Je m'appelle Ivanovic, et je dirige actuellement la ville. Je suis très heureux que vous soyez venu ! Il y a beaucoup à faire. Nous n'avons pas de système de transport pour le moment, donc tout est possible.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_TinyTownPassed</m_id>
-      <m_text>Thank you so much for your help! We will be taking good care of the company you set up, and we will send you the monthly profits.</m_text>
+      <m_text>Merci beaucoup pour votre aide ! Nous prendrons soin de la société que vous créez et nous vous enverrons les bénéfices mensuels.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>SCENARIO_NAME_default-04-grimtimes</m_id>
-      <m_text>Grim Times</m_text>
+      <m_text>Des temps sombres</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_GrimTimes01</m_id>
-      <m_text>Hello there and welcome! I These truly are grim times for my town! We need more workers, specially white collar workers! The offices are craving new workers. Please help us! </m_text>
+      <m_text>Bonjour et bienvenue ! I C'est vraiment une période sombre pour ma ville ! Nous avons besoin de plus de travailleurs, surtout de cols blancs ! Les bureaux ont besoin de nouveaux travailleurs. Aidez-nous, s'il vous plaît !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_GrimTimesPassed</m_id>
-      <m_text>Great work! While you are gone, I'll hire people to run the company. You will naturally receive a check for any profit we make; it will be sent every month.</m_text>
+      <m_text>Du beau travail ! Pendant ton absence, j'engagerai des gens pour diriger l'entreprise. Vous recevrez naturellement un chèque pour tout bénéfice que nous réaliserons ; il vous sera envoyé tous les mois.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>SCENARIO_NAME_default-05-brag</m_id>
@@ -5169,99 +5169,99 @@
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_Brag01</m_id>
-      <m_text>It is so good to have you back! Lets get that company going. Company value is so important: it measures how well the company is doing. Plus, it gives you bragging rights!</m_text>
+      <m_text>C'est si bon de vous revoir ! Faisons tourner cette entreprise. La valeur de l'entreprise est si importante : elle mesure la performance de l'entreprise. En plus, elle vous donne le droit de vous vanter !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_BragPassed</m_id>
-      <m_text>Well done! I love what you have done with the network. Let's continue the same way.</m_text>
+      <m_text>Bravo ! J'adore ce que vous avez fait avec le réseau. Continuons de la même manière.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>SCENARIO_NAME_default-06-alliseeisblue</m_id>
-      <m_text>All I See Is Blue</m_text>
+      <m_text>Tout ce que je vois, c'est du bleu</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_AllISeeIsBlue01</m_id>
-      <m_text>There are many new factories in the city, and they are desperately looking for workers. I'd like you to help us attract more blue collar workers to the city!</m_text>
+      <m_text>Il y a beaucoup de nouvelles usines dans la ville, et elles cherchent désespérément des travailleurs. J'aimerais que vous nous aidiez à attirer plus de cols bleus dans la ville !</m_text>
    </LocaleData>
    <LocaleData>
-      <m_id>OBJECTIVE_DESCRIPTION_AllISeeIsBluePassed</m_id>
-      <m_text>Good news, the factories are doing great! They bring in a nice amount of money, and of course this brings new commuters for your transportation system, too.</m_text>
+      <m_id>OBJECTIF_DESCRIPTION_AlliseeIsBluePassed</m_id>
+      <m_text>Bonne nouvelle, les usines se portent bien ! Elles rapportent beaucoup d'argent, et bien sûr, cela apporte aussi de nouveaux navetteurs pour votre système de transport.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>SCENARIO_NAME_default-07-prizedcity</m_id>
-      <m_text>Prized City</m_text>
+      <m_text>La ville primée</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_PrizedCity01</m_id>
-      <m_text>We need more citizens, and we need even better coverage over the whole city. We just won an award for the most attractive city on the continent, so we simply need to keep going, and make sure we cater to the new citizens who are going to flock to our city.</m_text>
+      <m_text>Nous avons besoin de plus de citoyens, et nous avons besoin d'une couverture encore meilleure sur l'ensemble de la ville. Nous venons de remporter un prix pour la ville la plus attrayante du continent, il nous faut donc simplement continuer et nous assurer que nous répondons aux besoins des nouveaux citoyens qui vont affluer dans notre ville.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_PrizedCityPassed</m_id>
-      <m_text>Good job! Let me introduce you to someone in need of help. You might be just the person they need...</m_text>
+      <m_text>Bon travail ! Laissez-moi vous présenter une personne qui a besoin d'aide. Vous êtes peut-être la personne dont ils ont besoin...</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>SCENARIO_NAME_default-08-helpwanted</m_id>
-      <m_text>Help Wanted!</m_text>
+      <m_text>Aide recherchée !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_HelpWanted01</m_id>
-      <m_text>Welcome! You came just in time! I'm the mayor, but I have no experience in running a city. I didn't even want the position! Please, help me with the transport system. The citizens are so angry with me, and I don't know what to do! Oh, and you can call me Bruce. Nice to meet you!</m_text>
+      <m_text>Bienvenue ! Vous êtes arrivés juste à temps ! Je suis le maire, mais je n'ai aucune expérience de la gestion d'une ville. Je ne voulais même pas ce poste ! S'il vous plaît, aidez-moi avec le système de transport. Les citoyens sont tellement en colère contre moi, et je ne sais pas quoi faire ! Oh, et vous pouvez m'appeler Bruce. Ravi de vous rencontrer !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_HelpWantedPassed</m_id>
-      <m_text>Thank you for your invaluable help! I don't know how we could have managed without you. You'll be receiving some nice profits! Just watch your account!</m_text>
+      <m_text>Merci pour votre aide inestimable ! Je ne sais pas comment nous aurions pu nous en sortir sans vous. Vous allez recevoir de beaux bénéfices ! Surveillez votre compte !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>SCENARIO_NAME_default-09-imagine</m_id>
-      <m_text>Imagine</m_text>
+      <m_text>Imaginez</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_Imagine01</m_id>
-      <m_text>Hello, hello! Yes, we have met before! Remember Ivanovic, from the last town? Yes, that's me! Now, this little city needs better connections, just like most places you visit. Could you help us out? We need to increase our population as well, so it's easier to keep the system going. I would be very happy if you could look into it!</m_text>
+      <m_text>Bonjour, bonjour ! Oui, nous nous sommes déjà rencontrés ! Vous vous souvenez d'Ivanovic, de la dernière ville ? Oui, c'est moi ! Maintenant, cette petite ville a besoin de meilleures connexions, tout comme la plupart des endroits que vous visitez. Pourriez-vous nous aider ? Nous devons aussi augmenter notre population, il est donc plus facile de maintenir le système. Je serais très heureux si vous pouviez vous en occuper !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_ImaginePassed</m_id>
-      <m_text>What a great job you have done! To be honest, I was a little worried at first, but now you have shown me what a professional you are! Thank you so much! I'll be directing the company profits directly to your company accounts.</m_text>
+      <m_text>Quel beau travail vous avez fait ! Pour être honnête, j'étais un peu inquiet au début, mais maintenant vous m'avez montré quel professionnel vous êtes ! Merci beaucoup ! Je vais diriger les bénéfices de la société directement vers les comptes de votre société.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>SCENARIO_NAME_default-10-greatelegance</m_id>
-      <m_text>Grand Elegance</m_text>
+      <m_text>Grande Élégance</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_GreatElegance01</m_id>
-      <m_text>You handled that with great elegance! Now, we still need you around here. I was thinking it would be a good idea to increase the company value, so we can attract even more people to the city. What do you think?</m_text>
+      <m_text>Vous avez géré cela avec une grande élégance ! Maintenant, nous avons toujours besoin de vous ici. Je pensais que ce serait une bonne idée d'augmenter la valeur de l'entreprise, afin que nous puissions attirer encore plus de gens en ville. Qu'en pensez-vous ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_GreatElegancePassed</m_id>
-      <m_text>Well done! This should keep us going for quite a while.</m_text>
+      <m_text>Bravo ! Cela devrait nous permettre de continuer pendant un bon moment.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>SCENARIO_NAME_default-11-thekeytosuccess</m_id>
-      <m_text>The Key To Success</m_text>
+      <m_text>La clé du succès</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_TheKeyToSuccess01</m_id>
-      <m_text>This might be a little too much to ask, but could you improve the coverage even further? I feel it's the key to success, and the citizens would surely benefit.</m_text>
+      <m_text>C'est peut-être un peu trop demander, mais pourriez-vous améliorer encore la couverture ? Je pense que c'est la clé du succès, et les citoyens en profiteraient certainement.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_TheKeyToSuccessPassed</m_id>
-      <m_text>Excellent work! I must admit, I thought I might have asked for too much this time, but you did great!</m_text>
+      <m_text>Excellent travail ! Je dois avouer que je pensais en avoir trop demandé cette fois-ci, mais vous avez été très bien !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>SCENARIO_NAME_default-12-thegrandfinale</m_id>
-      <m_text>The Grand Finale</m_text>
+      <m_text>La grande finale</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_TheGrandFinale01</m_id>
-      <m_text>We have come a long way, and the city is doing very well. I suggest we make the city grow even more. Perhaps the company could do better still? I've heard that it takes money to make money. If that's true, we should attract plenty of it!</m_text>
+      <m_text>Nous avons parcouru un long chemin et la ville se porte très bien. Je propose que nous fassions en sorte que la ville se développe encore plus. Peut-être que la société pourrait faire mieux encore ? J'ai entendu dire qu'il faut de l'argent pour gagner de l'argent. Si c'est vrai, nous devrions en attirer beaucoup !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_TheGrandFinalePassed</m_id>
-      <m_text>I simply cannot thank you enough for what you have done here! The city is doing better than ever, our citizens are pleased, and everything is working perfectly. You have done a tremendous job, and I'm very grateful, as are all our citizens. I hope you continue your great work in other cities, so that other people can enjoy you systems, too!</m_text>
+      <m_text>Je ne saurais trop vous remercier pour ce que vous avez fait ici ! La ville va mieux que jamais, nos citoyens sont satisfaits et tout fonctionne parfaitement. Vous avez fait un travail formidable, et je vous en suis très reconnaissant, comme tous nos citoyens. J'espère que vous continuerez votre excellent travail dans d'autres villes, afin que d'autres personnes puissent également profiter de vos systèmes !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomNew01</m_id>
-      <m_text>Good day! I represent the local board of educational and I'm here to ask for your help. We are looking to improving the commute to one of our schools.</m_text>
+      <m_text>Bonne journée ! Je représente le conseil local de l'éducation et je suis ici pour vous demander votre aide. Nous cherchons à améliorer le trajet vers l'une de nos écoles.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomNew01</m_id>
@@ -5269,683 +5269,683 @@
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomNew02</m_id>
-      <m_text>Hello! I'm Lauren O'Brien and I'm a tram fanatic -- I know, I know, you're thinking that's a bit silly, but I'm not the only one.. In fact there's a whole club of us: "The Tramtastics", and we are dying to see loads more trams in our city!</m_text>
+      <m_text>Bonjour ! Je suis Lauren O'Brien et je suis une fanatique des tramways... Je sais, je sais, vous pensez que c'est un peu idiot, mais je ne suis pas la seule.. En fait, nous sommes tout un club : "The Tramtastics", et nous mourons d'envie de voir beaucoup plus de trams dans notre ville !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomNew02</m_id>
-      <m_text>Awesome! I've spotted a lot more trams running throughout the city lately! Pure poetry in motion! Thank you!</m_text>
+      <m_text>Génial ! J'ai vu beaucoup plus de trams circuler dans la ville ces derniers temps ! De la pure poésie en mouvement ! Merci !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomNew03</m_id>
-      <m_text>I'm glad I caught you! My company's having a spot of bother -- many of our new employees don't own cars. Could you please improve the travel connections to our company offices?</m_text>
+      <m_text>Je suis content de vous avoir attrapé ! Ma société a un problème : beaucoup de nos nouveaux employés ne possèdent pas de voiture. Pourriez-vous améliorer les liaisons de voyage vers les bureaux de notre entreprise ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomNew03</m_id>
-      <m_text>Great news -- productivity has risen and we've had fewer people coming in late. Good job!</m_text>
+      <m_text>Bonne nouvelle : la productivité a augmenté et nous avons eu moins de retard. Bon travail !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomNew04</m_id>
-      <m_text>Sup dude?! Yeah man, it's like, pollution… it's totally uncool, right? So look, dog -- how's about upping the metro network and keepin' the gas-guzzlers off the road? Jus' think 'bout what we doin' to the planet, you follow?</m_text>
+      <m_text>Sup mec ?! Ouais mec, c'est comme la pollution... c'est pas cool du tout, hein ? Alors écoute, mec... pourquoi ne pas augmenter le réseau de métro et garder les gros consommateurs d'essence hors de la route ? Réfléchis juste à ce qu'on fait à la planète, tu me suis ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomNew04</m_id>
-      <m_text>Sweet! You, like, totally expanded your coverage, reduced the carbon footprint -- you're an eco-warrior, dude!</m_text>
+      <m_text>Super ! Vous avez totalement étendu votre couverture, réduit l'empreinte carbone... Vous êtes un éco-guerrier, mec !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomNew05</m_id>
-      <m_text>Hello, this is Maria calling from the local fertility clinic. Our records are showing a steady increase in the population of this city and we would like to see this growth continue. Perhaps if we were to build more new roads and add some new transit lines we'd encourage even more people to move into the city?</m_text>
+      <m_text>Bonjour, c'est Maria qui vous appelle de la clinique de fertilité locale. Nos dossiers montrent une augmentation constante de la population de cette ville et nous aimerions que cette croissance se poursuive. Peut-être que si nous construisions de nouvelles routes et ajoutions de nouvelles lignes de transport en commun, nous encouragerions encore plus de gens à venir s'installer dans la ville ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomNew05</m_id>
-      <m_text>We're in the middle of a real baby-boom! Thank you for your help!</m_text>
+      <m_text>Nous sommes en plein baby-boom ! Merci pour votre aide !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomNew06</m_id>
-      <m_text>How do you do, my name is Andy Franco, assistant to the Mayor. We've noticed there is an increasing demand for your services in the city and we would like to request that you increase your coverage, if that's possible.</m_text>
+      <m_text>Enchanté, je m'appelle Andy Franco, assistant du maire. Nous avons remarqué qu'il y a une demande croissante pour vos services dans la ville et nous aimerions vous demander d'augmenter votre couverture, si cela est possible.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomNew06</m_id>
-      <m_text>The Mayor asked me to convey his appreciation of your efforts and requested that I present you with this small token of his gratitude.</m_text>
+      <m_text>Le maire m'a demandé de vous transmettre son appréciation de vos efforts et m'a demandé de vous présenter ce petit témoignage de sa gratitude.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomNew07</m_id>
-      <m_text>Hello, my name is Heidi and I'm calling you from your own PR department. I'm not trying to tell you how to do your job, but you'd make our lives a whole lot easier if you spent some time improving the company's reputation. Thanks for taking the time to listen!</m_text>
+      <m_text>Bonjour, je m'appelle Heidi et je vous appelle de votre propre service de relations publiques. Je n'essaie pas de vous dire comment faire votre travail, mais vous nous faciliteriez la vie si vous consacriez un peu de temps à améliorer la réputation de l'entreprise. Merci d'avoir pris le temps de m'écouter !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomNew07</m_id>
-      <m_text>That's great! We've been receiving tons of positive feedback on our company's profile!</m_text>
+      <m_text>C'est génial ! Nous avons reçu des tonnes de commentaires positifs sur le profil de notre entreprise !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomNew08</m_id>
-      <m_text>My name is Don Rump, and I've got just one piece of advice for you: Location, location, location. The strategic placement of transportation lines can make businesses -- and the city -- grow. I'm looking to be impressed: let's see if you can do better than my last apprentices. They weren't up to the challenge of revitalizing the city just north of here.</m_text>
+      <m_text>Je m'appelle Don Rump, et j'ai un conseil à vous donner : L'emplacement, l'emplacement, l'emplacement. L'emplacement stratégique des lignes de transport peut faire croître les entreprises - et la ville -. Je cherche à être impressionné : voyons si vous pouvez faire mieux que mes derniers apprentis. Ils n'ont pas été à la hauteur du défi que représente la revitalisation de la ville juste au nord d'ici.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomNew08</m_id>
-      <m_text>Congratulations! Even the buildings are taller! Makes the town less windy, too -- no need to glue on my toupee anymore!</m_text>
+      <m_text>Félicitations ! Même les bâtiments sont plus hauts ! Cela rend la ville moins venteuse, aussi -- plus besoin de coller mon postiche !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomNew09</m_id>
-      <m_text>Chips - specialized, hi-tech chips -- that's what I deal in. We manufacture them at our own facilities, then ship them off for use at our factories. That's synergy for you. For reasons I'd rather not go into, we need a consistent means of transporting the chips from our manufacturing plant to multiple locations around the city and your trolley buses are our best option. I realize this may sound a little strange, but I assure you there is a sound technical reason for this.</m_text>
+      <m_text>Les puces - des puces spécialisées, de haute technologie - c'est ce dont je m'occupe. Nous les fabriquons dans nos propres installations, puis nous les expédions pour qu'elles soient utilisées dans nos usines. C'est une synergie pour vous. Pour des raisons que je préfère éviter, nous avons besoin d'un moyen cohérent de transporter les puces de notre usine de fabrication à plusieurs endroits de la ville et vos trolleybus sont notre meilleure option. Je me rends compte que cela peut paraître un peu étrange, mais je vous assure qu'il y a une bonne raison technique à cela.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomNew09</m_id>
-      <m_text>We are receiving a steady flow of chips at our various locations! Thank you very much!</m_text>
+      <m_text>Nous recevons un flux constant de puces dans nos différents sites ! Merci beaucoup !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomDavid01</m_id>
-      <m_text>Hi, I'm David and I want to offer you a unique opportunity! If you expand your transportation fleet, I'll make it worth your while! Why? Because I'm an eccentric philanthropist!</m_text>
+      <m_text>Bonjour, je m'appelle David et je veux vous offrir une occasion unique ! Si vous agrandissez votre flotte de transport, je vous en ferai profiter ! Pourquoi ? Parce que je suis un philanthrope excentrique !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomDavid01</m_id>
-      <m_text>Thank you! I'm delighted you accepted my offer -- I just love performing random acts of irrational kindness and you made my day! I won't forget you, you know -- I might even have some more work for you in the future.</m_text>
+      <m_text>Merci ! Je suis ravi que vous ayez accepté mon offre - j'adore accomplir des actes de gentillesse irrationnels au hasard et vous avez fait ma journée ! Je ne vous oublierai pas, vous savez -- j'aurai peut-être même encore du travail pour vous à l'avenir.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomDavid02</m_id>
-      <m_text>Good day, I'm calling on behalf of David, the eccentric philanthropist. As his treasurer, I am authorized to present you with this generous offer of assistance. I do hope you decide to accept. Just one thing, please make sure you comply with his request to the very letter. David's rather particular in that respect.</m_text>
+      <m_text>Bonjour, je vous appelle au nom de David, le philanthrope excentrique. En tant que son trésorier, je suis autorisé à vous présenter cette généreuse offre d'assistance. J'espère que vous déciderez d'accepter. Juste une chose, assurez-vous de vous conformer à sa demande à la lettre. David est assez particulier à cet égard.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomDavid02</m_id>
-      <m_text>David sends his regards, along with a more than generous donation to your cause.</m_text>
+      <m_text>David vous envoie ses salutations, ainsi qu'un don plus que généreux à votre cause.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomDavid03</m_id>
-      <m_text>Hello, I am personal assistant to David the eccentric philanthropist and I've been asked see if you qualify as a benefactor to the city's student. If you are, I am to reward you handsomely. He muttered something strange about it being of the utmost importance how transportation is ordered, so, to be on the safe side, you better do things in the exact order he requested.</m_text>
+      <m_text>Bonjour, je suis l'assistante personnelle de David l'excentrique philanthrope et on m'a demandé de voir si vous remplissiez les conditions pour être un bienfaiteur de l'étudiant de la ville. Si c'est le cas, je dois vous récompenser généreusement. Il a murmuré quelque chose d'étrange sur le fait que la manière dont le transport est ordonné est de la plus haute importance, donc, pour être sûr, vous feriez mieux de faire les choses dans l'ordre exact qu'il a demandé.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomDavid03</m_id>
-      <m_text>Your contributions are of great importance to the future of this city. David, along with the students of the city, applaud your actions.</m_text>
+      <m_text>Vos contributions sont d'une grande importance pour l'avenir de cette ville. David, ainsi que les étudiants de la ville, applaudissent vos actions.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomDavid04</m_id>
-      <m_text>Hi, I'm David the eccentric philanthropist's sister. My brother doesn't usually do this, but he's been having a really rough day so he sent me over to deliver this really bizarre request. He insisted that everything had to be carried out in a specific order -- something to do with his obsessive compulsive disorder, I expect... Just don't shoot the messenger!</m_text>
+      <m_text>Bonjour, je suis la soeur de David l'excentrique philanthrope. Mon frère ne fait pas ça d'habitude, mais il a eu une journée très difficile, alors il m'a envoyée pour livrer cette demande vraiment bizarre. Il a insisté sur le fait que tout devait être exécuté dans un ordre précis -- quelque chose en rapport avec son trouble obsessionnel compulsif, je suppose... Mais ne tirez pas sur le messager !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomDavid04</m_id>
-      <m_text>You actually managed to do that!? Well, you certainly cheered David up -- though I'm not sure he'd ever admit to asking you to do it. Anyway, you earned your reward!</m_text>
+      <m_text>Vous avez vraiment réussi à faire ça ? Eh bien, tu as certainement remonté le moral de David - bien que je ne sois pas sûr qu'il admette jamais t'avoir demandé de le faire. Quoi qu'il en soit, tu as mérité ta récompense !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomDavid05</m_id>
-      <m_text>Er, hello? I'm David the eccentric philanthropist's cousin -- I'm currently between jobs so he sent me round to deliver this request. If you ask me, he must really have it in for you to even consider asking this but... And he was very specific about the order he wanted it done -- said he wanted it to 'reflect human growth', or something.</m_text>
+      <m_text>Euh, bonjour ? Je suis le cousin de David, l'excentrique philanthrope. Je suis actuellement entre deux emplois, alors il m'a envoyé faire cette demande. Si vous me demandez, il doit vraiment en avoir après vous pour que vous envisagiez de demander ça mais... Et il a été très précis sur l'ordre dans lequel il voulait que cela soit fait - il a dit qu'il voulait que cela "reflète la croissance humaine", ou quelque chose comme ça.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomDavid05</m_id>
-      <m_text>Man, he sure had you jumping through hoops! Nicely done though, I must say!</m_text>
+      <m_text>Il t'a vraiment fait sauter à travers des cerceaux ! Bien joué, je dois dire !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomCheaper01</m_id>
-      <m_text>Hello and how are you doing today?! My name's Sarah and I'm here specially to present a unique promotional campaign: Cheaper Than Peanuts! Buy your new buses today and take full advantage of our partial refund offer! It's the deal of a lifetime! Act now and you'll also receive a bonus set of kitchen knives!</m_text>
+      <m_text>Bonjour et comment allez-vous aujourd'hui ? ! Je m'appelle Sarah et je suis ici spécialement pour vous présenter une campagne de promotion unique : Moins cher que les cacahuètes ! Achetez vos nouveaux bus aujourd'hui et profitez pleinement de notre offre de remboursement partiel ! C'est l'offre de votre vie ! Agissez maintenant et vous recevrez également un set de couteaux de cuisine en prime !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomCheaper01</m_id>
-      <m_text>Thank you for your bus purchase. You should receive your bonus shortly. Have a nice day.</m_text>
+      <m_text>Merci pour votre achat de bus. Vous devriez recevoir votre prime sous peu. Passez une bonne journée.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomCheaper02</m_id>
-      <m_text>Hello! I'm Anya and I'm delighted to be in a position to share with you our latest promotional campaign: Cheaper Than Fudge! Simply purchase your metros now and enjoy a partial refund! It's the deal of a lifetime! Act now and you'll also receive a silly hat at no extra charge!</m_text>
+      <m_text>Bonjour ! Je m'appelle Anya et je suis ravie de pouvoir partager avec vous notre dernière campagne de promotion : Moins cher que le caramel ! Achetez simplement vos métros maintenant et profitez d'un remboursement partiel ! C'est l'affaire d'une vie ! Agissez maintenant et vous recevrez également un chapeau ridicule sans frais supplémentaires !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomCheaper02</m_id>
-      <m_text>Thank you for your metro purchase. You should receive your bonus shortly. Have a nice day.</m_text>
+      <m_text>Merci pour votre achat de métro. Vous devriez recevoir votre bonus sous peu. Passez une bonne journée.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomCheaper03</m_id>
-      <m_text>Allow me to introduce myself -- my name's Mark and I'd like to showcase our latest promotional campaign: Cheaper Than Raisins! For every tram purchased you earn a complementary partial refund! It's the deal of a lifetime! Act now and you'll also receive a bonus gift: a pair of 'Miracle Shears' - cuts everything from paper to cardboard!</m_text>
+      <m_text>Permettez-moi de me présenter -- je m'appelle Mark et j'aimerais présenter notre dernière campagne de promotion : Moins cher que les raisins secs ! Pour chaque tram acheté, vous bénéficiez d'un remboursement partiel complémentaire ! C'est l'affaire d'une vie ! Agissez maintenant et vous recevrez également un cadeau en prime : une paire de "ciseaux à miracles" - qui coupent tout, du papier au carton !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomCheaper03</m_id>
-      <m_text>Thank you for your tram purchase. You should receive your bonus shortly. Have a nice day.</m_text>
+      <m_text>Merci pour votre achat de tram. Vous devriez recevoir votre prime sous peu. Passez une bonne journée.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomCheaper04</m_id>
-      <m_text>Well hello there! Phil's the name and I can't wait to share with you our new promotional campaign: Cheaper Than Tacos! All trolley buses purchased right now are currently eligible for a partial refund! It's the deal of a lifetime! Act now and you'll also receive a single, multi-purpose oven mitt!</m_text>
+      <m_text>Eh bien, bonjour ! Je m'appelle Phil et j'ai hâte de partager avec vous notre nouvelle campagne de promotion : Moins cher que les tacos ! Tous les trolleybus achetés en ce moment sont actuellement éligibles pour un remboursement partiel ! C'est l'affaire d'une vie ! Agissez maintenant et vous recevrez également un gant de cuisine polyvalent !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomCheaper04</m_id>
-      <m_text>Thank you for your trolley bus purchase. You should receive your bonus shortly. Have a nice day.</m_text>
+      <m_text>Merci pour votre achat de trolleybus. Vous devriez recevoir votre prime sous peu. Passez une bonne journée.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomCheaper05</m_id>
-      <m_text>Hello! I'm Andy and I'm legally blind. I'm contacting you regarding an exciting new promotional opportunity -- our 'Cheaper Than Spaghetti' campaign allows you to buy your boats now and receive a partial refund! It's the deal of a lifetime! Act now and you'll also receive a complementary apple -- to keep those doctors away! As a legal disclaimer I would like to reiterate the fact that I am blind and cannot be held responsible for the existence of water, or lack thereof, in your particular region. All boat purchases do not include the water necessary for optimum operation.</m_text>
+      <m_text>Bonjour ! Je m'appelle Andy et je suis légalement aveugle. Je vous contacte au sujet d'une nouvelle opportunité promotionnelle passionnante : notre campagne "Cheaper Than Spaghetti" vous permet d'acheter vos bateaux maintenant et de recevoir un remboursement partiel ! C'est l'affaire d'une vie ! Agissez maintenant et vous recevrez également une pomme complémentaire - pour éloigner ces médecins ! En guise de clause de non-responsabilité légale, je tiens à rappeler que je suis aveugle et que je ne peux être tenu responsable de l'existence ou de l'absence d'eau dans votre région. Tous les achats de bateaux ne comprennent pas l'eau nécessaire pour un fonctionnement optimal.</m_text>
    </LocaleData>
-   <LocaleData>
+   <LocaleData>Merci pour votre achat de bateau. Vous devriez recevoir votre prime sous peu. Passez une bonne journée.
       <m_id>OBJECTIVE_PASSED_RandomCheaper05</m_id>
-      <m_text>Thank you for your boat purchase. You should receive your bonus shortly. Have a nice day.</m_text>
+      <m_text></m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomMechanic01</m_id>
-      <m_text>I am a follower of the all-mighty Mechanic and I demand you establish public transportation routes to our Garage. All vehicles are created equal under the all-seeing eye of the Mechanic. Every nut and bolt is an integral part of the unifying Engine.</m_text>
+      <m_text>Je suis un adepte du tout-puissant Mécanicien et je vous demande d'établir des voies de transport public vers notre Garage. Tous les véhicules sont créés égaux sous l'œil attentif du Mécanicien. Chaque boulon et écrou fait partie intégrante du moteur unificateur.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomMechanic01</m_id>
-      <m_text>The Mechanic is well pleased and, when the time comes, will grant all your vehicles passage to the Great Junkyard. We thank you.</m_text>
+      <m_text>Le mécanicien est bien content et, le moment venu, il accordera à tous vos véhicules le passage à la grande casse. Nous vous en remercions.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomMechanic02</m_id>
-      <m_text>I am a follower of the great Mechanic and he has decreed that there should be equality amongst your vehicles. It is written in sacred Scriptures of the Dashboard that all methods of public transportation are created in the Engine's image. Please respect the Mechanic's will.</m_text>
+      <m_text>Je suis un disciple du grand mécanicien et il a décrété qu'il devait y avoir une égalité entre vos véhicules. Il est écrit dans les Écritures sacrées du Tableau de bord que tous les moyens de transport public sont créés à l'image du Moteur. Veuillez respecter la volonté du Mécanicien.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomMechanic02</m_id>
-      <m_text>The Mechanic is most grateful. Your vehicles have all received the blessing of the Hood Ornament. We thank you.</m_text>
+      <m_text>Le mécanicien est très reconnaissant. Vos véhicules ont tous reçu la bénédiction de l'ornement de capot. Nous vous en remercions.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomMechanic03</m_id>
-      <m_text>I follow the highway of the all-powerful Mechanic. All shall kneel before Him, who declares all vehicles to be equal. It is a fundamental right of all vehicles to multiply and fill the great Engine, as is laid out in the Scriptures of the Dashboard.</m_text>
+      <m_text>Je suis l'autoroute du tout-puissant Mécanicien. Tous doivent s'agenouiller devant Lui, qui déclare tous les véhicules égaux. C'est un droit fondamental de tous les véhicules de se multiplier et de remplir le grand Moteur, comme l'énoncent les Écritures du Tableau de bord.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomMechanic03</m_id>
-      <m_text>The Mechanic has been appeased and the teachings of the Dashboard remain in harmony. We thank you.</m_text>
+      <m_text>Le mécanicien a été apaisé et les enseignements du tableau de bord restent en harmonie. Nous vous en remercions.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomMechanic04</m_id>
-      <m_text>I am a lowly follower of the Mechanic, lubricated be His name. He guides my Steering Wheel in his infinite, vehicular wisdom. He watches over our cars when we are gone. He brings balance to our Wheels, and yet, in his mysterious ways, throws his Wrench into the Engine. Woe be unto us that must endure these Carbon Times. The Scriptures of the Dashboard require us to create imbalance in order to achieve balance.</m_text>
+      <m_text>Je suis un humble partisan du Mécanicien, lubrifié soit Son nom. Il guide mon Volant dans son infinie sagesse automobile. Il veille sur nos voitures quand nous sommes partis. Il apporte l'équilibre à nos roues, et pourtant, à sa manière mystérieuse, il jette sa clé dans le moteur. Malheur à nous qui devons endurer ces temps de carbone. Les écritures du tableau de bord nous demandent de créer un déséquilibre pour atteindre l'équilibre.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomMechanic04</m_id>
-      <m_text>The Mechanic has achieved a state of equilibrium and the mighty Engine is running smoothly once more. We thank you.</m_text>
+      <m_text>Le Mécanique a atteint un état d'équilibre et le puissant Moteur fonctionne à nouveau sans problème. Nous vous en remercions.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomIndy01</m_id>
-      <m_text>This is Professor Jones from the Institute of Archeology. We've located an important historical site right under your city, but due to those darned planning regulations, we can't access it. So, here's our proposal - you put in a new a metro line and we take advantage of the construction site to uncover the secrets of lost civilizations.</m_text>
+      <m_text>Voici le professeur Jones de l'Institut d'archéologie. Nous avons localisé un site historique important juste sous votre ville, mais en raison de ces maudites règles d'urbanisme, nous ne pouvons pas y accéder. Alors, voici notre proposition : vous mettez en place une nouvelle ligne de métro et nous profitons du chantier pour découvrir les secrets des civilisations perdues.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomIndy01</m_id>
-      <m_text>Excellent! Now, just let me grab my hat and whip, and I'll be on my way… I'm off on a new adventure to discover more ancient secrets! Thank you once again!</m_text>
+      <m_text>Excellent ! Maintenant, laissez-moi juste prendre mon chapeau et mon fouet, et je m'en vais... Je pars pour une nouvelle aventure à la découverte de secrets plus anciens ! Merci encore une fois !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomIndy02</m_id>
-      <m_text>Hello, this is Marion, calling on behalf of Professor Jones. If you recall, the last metro tunnel you dug lead to an amazing discovery. Well, the professor has since circled the world twice over in an rickety old plane and now he's returned and is anxious to start his next adventure. Apparently the last excavation site has a twin close by and we were wondering if you'd agree to a similar arrangement?</m_text>
+      <m_text>Bonjour, ici Marion, qui vous appelle au nom du professeur Jones. Si vous vous souvenez bien, le dernier tunnel de métro que vous avez creusé a conduit à une découverte étonnante. Depuis, le professeur a fait deux fois le tour du monde dans un vieil avion délabré. Il est revenu et a hâte de commencer sa prochaine aventure. Apparemment, le dernier site de fouille a un jumeau à proximité et nous nous demandions si vous accepteriez un arrangement similaire ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomIndy02</m_id>
-      <m_text>Thank you! At last we can finally discover the secrets of that ancient civilization!</m_text>
+      <m_text>Merci ! Nous pouvons enfin découvrir les secrets de cette ancienne civilisation !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomIndy03</m_id>
-      <m_text>Greetings. My name is Sallah Mohammed and I understand you are the only person who can help us. My dear old friend Professor Jones has landed himself in a bit of a pickle. He was excavating under your city and unfortunately there was a cave-in. Amazingly, he also uncovered the tomb of an ancient ruler, so we could really use your help to establish yet another metro access point.</m_text>
+      <m_text>Salutations. Je m'appelle Sallah Mohammed et je comprends que vous êtes la seule personne qui puisse nous aider. Mon cher vieil ami, le professeur Jones, s'est mis dans le pétrin. Il creusait sous votre ville et malheureusement il y a eu un effondrement. Étonnamment, il a également découvert la tombe d'un ancien dirigeant, nous pourrions donc vraiment utiliser votre aide pour établir un autre point d'accès au métro.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomIndy03</m_id>
-      <m_text>Much appreciated, my friend. We finally got our hands on some wonderful archeological treasures which had been lying buried under our feet for thousands of years. Now our city's museums will truly be world famous!</m_text>
+      <m_text>J'apprécie beaucoup, mon ami. Nous avons enfin mis la main sur de merveilleux trésors archéologiques qui étaient enfouis sous nos pieds depuis des milliers d'années. Maintenant, les musées de notre ville seront vraiment célèbres dans le monde entier !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomEdit01</m_id>
-      <m_text>This is Gretel, from the local Girl Scouts troop. We were hoping you could help us. We've got a brand new club house, but it's a bit hard to get to, so we were hoping you could make it easier for us to reach.</m_text>
+      <m_text>Voici Gretel, de la troupe locale des scouts. Nous espérions que vous pourriez nous aider. Nous avons un tout nouveau club house, mais il est un peu difficile d'accès, alors nous espérions que vous pourriez nous faciliter la tâche.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomEdit01</m_id>
-      <m_text>You're the best! Now we can get there easily. Thank you so much!</m_text>
+      <m_text>Vous êtes les meilleurs ! Maintenant, nous pouvons y arriver facilement. Merci beaucoup !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomEdit02</m_id>
-      <m_text>My best friend Gretel asked you to help with the Girl Scout's club house a while back, remember? Well, could you help us again, please? We're having a regional Girl Scout gathering downtown. Could you make sure it's easy to reach -- we don't want the visiting Girl Scouts to get lost?</m_text>
+      <m_text>Ma meilleure amie Gretel t'a demandé d'aider au club house des scouts il y a quelque temps, tu te souviens ? Tu pourrais nous aider à nouveau, s'il te plaît ? Nous organisons un rassemblement régional de scouts en ville. Pourrais-tu t'assurer qu'il est facile d'accès -- nous ne voulons pas que les éclaireuses en visite se perdent ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomEdit02</m_id>
-      <m_text>Thank you ever so much! I'm sure our visitors will enjoy seeing round our lovely city! Thank you!</m_text>
+      <m_text>Merci beaucoup ! Je suis sûr que nos visiteurs apprécieront de visiter notre belle ville ! Je vous remercie !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomEdit03</m_id>
-      <m_text>I'm Dan and I own the local art gallery. I’m hosting the opening of a new exhibition and I'm expecting guests from all over the world, but I'm a little concerned about transportation. I need a clear route linking the opening, my gallery and the hotel. Could you help me out?</m_text>
+      <m_text>Je m'appelle Dan et je possède la galerie d'art locale. J'accueille l'ouverture d'une nouvelle exposition et j'attends des invités du monde entier, mais je suis un peu inquiet pour le transport. J'ai besoin d'un itinéraire clair reliant le vernissage, ma galerie et l'hôtel. Pourriez-vous m'aider ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomEdit03</m_id>
-      <m_text>Thank you! The event was a great success and everyone commented on the quality of the transportation! </m_text>
+      <m_text>Merci ! L'événement a été un grand succès et tout le monde a commenté la qualité du transport ! </m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomEdit04</m_id>
-      <m_text>Nice to meet you! I'm Andy, Assistant Engineer at the factory that supplies your buses. Last month we exceeded our production quota, so we'd really appreciate it if you bought some more buses from us.</m_text>
+      <m_text>Ravi de vous rencontrer ! Je suis Andy, ingénieur assistant à l'usine qui fournit vos bus. Le mois dernier, nous avons dépassé notre quota de production. Nous vous serions donc très reconnaissants de nous acheter d'autres bus.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomEdit04</m_id>
-      <m_text>Thank you! I'm sure the new buses will be an asset to your company!</m_text>
+      <m_text>Merci ! Je suis sûr que les nouveaux bus seront un atout pour votre entreprise !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomEdit05</m_id>
-      <m_text>Salaam! Surely you must have heard of me, the famous sheik Hassan? I am opening an office in your fine city, but I have a problem. My villa is a little inconvenient for my cleaning lady, handyman, driver, gardener, and cook to reach. Would you please show me your kindness and hospitality, and make it possible for my staff to get to my house?</m_text>
+      <m_text>Salaam ! Vous avez sûrement entendu parler de moi, le célèbre cheikh Hassan ? Je suis en train d'ouvrir un bureau dans votre belle ville, mais j'ai un problème. Ma villa est un peu difficile à atteindre pour ma femme de ménage, mon homme à tout faire, mon chauffeur, mon jardinier et mon cuisinier. Pourriez-vous me montrer votre gentillesse et votre hospitalité, et permettre à mon personnel de se rendre chez moi ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomEdit05</m_id>
-      <m_text>Marvelous, I am so pleased! Finally my villa is getting the attention it deserves. Please accept this modest token of my gratitude.</m_text>
+      <m_text>Merveilleux, je suis tellement content ! Enfin, ma villa reçoit l'attention qu'elle mérite. Je vous prie d'accepter ce modeste témoignage de ma gratitude.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomEdit06</m_id>
-      <m_text>Dude, rock on! We’re organizing a jam session for our band, and it's gonna be awesome - we've not played a gig yet, but soon, man... We're going to make it big time, y'know? There's just one thing: our violinist lives too far away. Any chance you could, y'know, set up a route so she can get to practice more easily? I mean, she's, like, totally smokin' and we don't want to lose her...</m_text>
+      <m_text>Mec, c'est génial ! On organise une jam session pour notre groupe, et ça va être génial - on n'a pas encore fait de concert, mais bientôt, mec... On va faire un tabac, tu sais ? Il y a juste une chose : notre violoniste vit trop loin. Est-ce que tu pourrais, tu sais, lui donner un itinéraire pour qu'elle puisse s'entraîner plus facilement ? Je veux dire, elle est, genre, complètement canon et on ne veut pas la perdre...</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomEdit06</m_id>
-      <m_text>Monster! We totally kicked... and I think I'm in love! Thanks, dude!</m_text>
+      <m_text>Monstre ! On s'est bien amusés... et je crois que je suis amoureux ! Merci, mec !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomEdit07</m_id>
-      <m_text>Hey, man! Danny's the name, head honcho of the local motorcycle club. We ol' time bikers have to deal with rusted bikes... Fact is, most of the time our hogs are in the shop getting fixed or tuned. So we kinda rely on public transportation pretty much. Could you help us out and add a stop close to our garage? We bikers are some of your best customers, y'know...</m_text>
+      <m_text>Hé, mec ! Je m'appelle Danny, chef du club de moto local. Nous, les motards d'antan, devons nous occuper des motos rouillées... Le fait est que la plupart du temps, nos porcs sont à l'atelier pour se faire réparer ou régler. Nous nous appuyons donc sur les transports publics. Pourriez-vous nous aider et ajouter un arrêt près de notre garage ? Nous, les motards, sommes parmi vos meilleurs clients, vous savez...</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomEdit07</m_id>
-      <m_text>Thanks man! Our bikes are in the shop and we can still get around the city. Here, we passed round the hat, just to let you know how grateful we are.</m_text>
+      <m_text>Merci, mec ! Nos vélos sont au magasin et nous pouvons encore nous déplacer en ville. Ici, nous avons fait le tour du chapeau, juste pour vous dire combien nous vous sommes reconnaissants.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomEdit08</m_id>
-      <m_text>Good day. Do you have a moment to spare? I'm a member of a secret ring of spies currently operating within your city -- or at least we are trying to. It's quite simple: the greater the public transportation options, the harder we are to trace. Could you please increase transportation so we can pass undetected more easily? Thank you for your cooperation.</m_text>
+      <m_text>Bonne journée. Avez-vous un moment à nous consacrer ? Je suis membre d'un réseau secret d'espions qui opère actuellement dans votre ville - ou du moins nous essayons de le faire. C'est très simple : plus les transports publics sont nombreux, plus il est difficile de nous repérer. Pourriez-vous augmenter les transports afin que nous puissions passer plus facilement inaperçus ? Nous vous remercions de votre coopération.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomEdit08</m_id>
-      <m_text>Our agents remain undetected and the exchange of secret information is flowing much more freely now. Thank you.</m_text>
+      <m_text>Nos agents ne sont pas détectés et l'échange d'informations secrètes se fait désormais beaucoup plus librement. Je vous remercie.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomEdit09</m_id>
-      <m_text>Hello, I'm Kate from the Women's Union. We are holding a seminar and we would really appreciate it if you could help us organize transportation between our main event locations.</m_text>
+      <m_text>Bonjour, je suis Kate de l'Union des femmes. Nous organisons un séminaire et nous vous serions très reconnaissants si vous pouviez nous aider à organiser le transport entre nos principaux lieux de manifestation.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomEdit09</m_id>
-      <m_text>Thank you so much! The seminar was a great success and you helped make it happen.</m_text>
+      <m_text>Merci beaucoup ! Le séminaire a été un grand succès et vous avez contribué à sa réalisation.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomEdit10</m_id>
-      <m_text>Spare a thought for the little ones! I'm Sandy Newport from Save All Living Things. We're greatly troubled by the number of ignorant, unfeeling feet trampling the ground -- do you know how many innocent insects get crushed every single second? Could you help us in our campaign to help humans keep their clumsy feet off the ground?</m_text>
+      <m_text>Une pensée pour les petits ! Je suis Sandy Newport de Save All Living Things. Nous sommes très troublés par le nombre de pieds ignorants et insensibles qui piétinent le sol - savez-vous combien d'insectes innocents sont écrasés chaque seconde ? Pourriez-vous nous aider dans notre campagne pour aider les humains à garder leurs pieds maladroits hors du sol ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomEdit10</m_id>
-      <m_text>Thank you! Now the cute wee critters are a bit safer! I'm sure you'll sleep more soundly knowing that there are more spiders in the world!</m_text>
+      <m_text>Merci ! Maintenant, les mignonnes petites créatures sont un peu plus sûres ! Je suis sûr que vous dormirez plus profondément en sachant qu'il y a plus d'araignées dans le monde !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomEdit11</m_id>
-      <m_text>I'm a local producer and retailer of spandex hoodies and I'd appreciate your help. I'm just opening a new shop and although its location isn't ideal, I'm anticipating that the city will soon expand and then my shop will be in a prime spot for business. Right now, however, it still needs better connections, so if you could spare the time to look into it I'd be really grateful. My line of casual wear really is the best you can buy, you know!</m_text>
+      <m_text>Je suis un producteur et un détaillant local de chandails à capuchon en spandex et j'apprécierais votre aide. Je viens d'ouvrir une nouvelle boutique et bien que son emplacement ne soit pas idéal, je prévois que la ville va bientôt s'agrandir et que ma boutique sera alors dans un endroit de premier choix pour les affaires. Mais pour l'instant, il a encore besoin de meilleures connexions, alors si vous pouviez prendre le temps de vous en occuper, je vous en serais très reconnaissant. Ma ligne de vêtements de loisirs est vraiment la meilleure que vous puissiez acheter, vous savez !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomEdit11</m_id>
-      <m_text>Thanks! I'm sure we'll build a steady customer base over the next year or so and we'll have you to thank!</m_text>
+      <m_text>Merci ! Je suis sûr que nous allons nous constituer une clientèle stable au cours de la prochaine année environ et que nous devrons vous remercier !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomRudolf01</m_id>
-      <m_text>Hi, I'm Rudolf -- I make documentaries about public transportation and I've selected your city to feature in my next blockbuster. I envision this movie to be enigmatic, yet forceful in its message. Unfortunately we still have a few details to iron out -- basically, your current network doesn't fully reflect our artistic vision. Could you be a dear and just pop in a few extra stops here and there? I'm utterly convinced that these new sites would perfectly capture the dichotomy of intrigue versus functionality that is at the very heart of your city's public transportation system.</m_text>
+      <m_text>Bonjour, je m'appelle Rudolf. Je réalise des documentaires sur les transports publics et j'ai sélectionné votre ville pour mon prochain blockbuster. J'envisage ce film comme étant énigmatique, mais avec un message fort. Malheureusement, nous avons encore quelques détails à régler -- en gros, votre réseau actuel ne reflète pas entièrement notre vision artistique. Pourriez-vous être un amour et faire quelques arrêts supplémentaires ici et là ? Je suis tout à fait convaincu que ces nouveaux sites reflèteraient parfaitement la dichotomie entre l'intrigue et la fonctionnalité qui est au coeur même du système de transport public de votre ville.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomRudolf01</m_id>
-      <m_text>Excellent! The routes look perfect! I'm sure our cinematic masterpiece will bring people flocking to marvel at the beauty of your system.</m_text>
+      <m_text>Excellent ! Les itinéraires sont parfaits ! Je suis sûr que notre chef-d'œuvre cinématographique amènera les gens à venir en masse s'émerveiller de la beauté de votre système.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomRudolf02</m_id>
-      <m_text>Hello, I'm Rudolf's assistant. Turns out we need to shoot some extra footage for the film and you're going to have to make a few additional changes to your network. Yes, I know, bummer… But it'll be good publicity for company!</m_text>
+      <m_text>Bonjour, je suis l'assistante de Rudolf. Il s'avère que nous devons tourner quelques séquences supplémentaires pour le film et vous allez devoir apporter quelques modifications supplémentaires à votre réseau. Oui, je sais, c'est dommage... Mais ce sera une bonne publicité pour la société !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomRudolf02</m_id>
-      <m_text>We got some great footage! It should be more than enough to finish the film. Thanks!</m_text>
+      <m_text>Nous avons de superbes images ! Cela devrait être plus que suffisant pour terminer le film. Merci !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomRudolf03</m_id>
-      <m_text>Hi, I'm Rudolf's new assistant. He's busy finalizing his new script right now, but he asked me to tell you that his last movie was a runaway hit and that gave him the inspiration for his latest project: nightlife in the big city. We'd love to feature your impressive transportation network.</m_text>
+      <m_text>Bonjour, je suis la nouvelle assistante de Rudolf. Il est occupé à finaliser son nouveau scénario en ce moment, mais il m'a demandé de vous dire que son dernier film a été un succès fou et que cela lui a donné l'inspiration pour son dernier projet : la vie nocturne dans la grande ville. Nous serions ravis de vous présenter votre impressionnant réseau de transport.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomRudolf03</m_id>
-      <m_text>We got everyone to the set on time! I'm sure this is going to be a masterpiece! Thank you for your assistance – we could never have done it without you!</m_text>
+      <m_text>Tout le monde est arrivé sur le plateau à temps ! Je suis sûr que ce sera un chef-d'œuvre ! Merci pour votre aide - nous n'aurions jamais pu le faire sans vous !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA01</m_id>
-      <m_text>My name is Oscar Magoo and I run a local bakery. In fact, my little shop is right nearby and I was wondering if you'd be able to add a line there. Many of my employees don't own their own car so they rely on public transport.</m_text>
+      <m_text>Je m'appelle Oscar Magoo et je dirige une boulangerie locale. En fait, mon petit magasin est tout près et je me demandais si vous pourriez y ajouter une ligne. Beaucoup de mes employés ne possèdent pas leur propre voiture, ils utilisent donc les transports publics.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA01</m_id>
-      <m_text>Wonderful! This truly will help my business expand -- and you've made my employees very happy. Thank you!</m_text>
+      <m_text>Merveilleux ! Cela va vraiment aider mon entreprise à se développer - et vous avez rendu mes employés très heureux. Je vous remercie.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA02</m_id>
-      <m_text>Good day to you! As you probably know, I'm the bishop of this diocese and I'm here to ask a favor. We don't get as many worshipers as we once used to and I believe one of the main reasons is that our church is hard to reach. Could you set up a direct line?</m_text>
+      <m_text>Bonne journée à vous ! Comme vous le savez probablement, je suis l'évêque de ce diocèse et je suis ici pour vous demander une faveur. Nous n'avons plus autant de fidèles qu'auparavant et je crois que l'une des principales raisons est que notre église est difficile à atteindre. Pourriez-vous mettre en place une ligne directe ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA02</m_id>
-      <m_text>Thank you! I'm sure people will flock to the church now! How lovely it will be to see our parishioners more often!</m_text>
+      <m_text>Merci ! Je suis sûr que les gens vont affluer à l'église maintenant ! Comme ce sera agréable de voir nos paroissiens plus souvent !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA03</m_id>
-      <m_text>Hello, I believe you might be able to help me. I've been trying to keep in contact with one of our CIA agents, but we're running out of places we can meet inconspicuously. A bus line would be perfect! – No one would suspect two people who just happened to be traveling on the same bus. Could you help us?</m_text>
+      <m_text>Bonjour, je crois que vous pourriez m'aider. J'ai essayé de rester en contact avec un de nos agents de la CIA, mais nous sommes à court d'endroits où nous pouvons nous rencontrer discrètement. Une ligne de bus serait parfaite ! - Personne ne soupçonnerait deux personnes qui se trouvent justement à voyager dans le même bus. Pourriez-vous nous aider ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA03</m_id>
-      <m_text>Excellent, the new line works like a charm! No one suspects anything! After all, lots of people share the same routes. Thank you for your help!</m_text>
+      <m_text>Excellent, la nouvelle ligne fonctionne à merveille ! Personne ne se doute de rien ! Après tout, beaucoup de gens partagent les mêmes itinéraires. Merci pour votre aide !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA04</m_id>
-      <m_text>Nice to meet you! My name's Mary and I just moved here. I was hoping to bring my whole family with me, but there's a small problem: I have a beautiful home, but it's too far from the school. I don't have a drivers license and my wife is at work all day. Could you help us? We need a direct line from our house to the school, so my children don't miss class.</m_text>
+      <m_text>Ravi de vous rencontrer ! Je m'appelle Mary et je viens d'emménager ici. J'espérais emmener toute ma famille avec moi, mais il y a un petit problème : j'ai une belle maison, mais elle est trop loin de l'école. Je n'ai pas de permis de conduire et ma femme est au travail toute la journée. Pourriez-vous nous aider ? Nous avons besoin d'une ligne directe de notre maison à l'école, pour que mes enfants ne manquent pas les cours.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA04</m_id>
-      <m_text>Thank you ever so much! Now my children can get to school easily and my wife is pleased!</m_text>
+      <m_text>Merci beaucoup ! Maintenant, mes enfants peuvent aller à l'école facilement et ma femme est ravie !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA05</m_id>
-      <m_text>How y'all doin'! I've come to ask you a small favor -- I just bought me an office building right here in the city. Seemed like a mighty fine investment at the time, that is 'til I came to notice the poor public transport connections. Now I can get there just fine in my limousine, but my regular workers -- the secretaries and such – well, it ain’t quite so easy for them. Could you lend me a hand here? I never forget a good deed!</m_text>
+      <m_text>Comment ça va ! Je suis venu vous demander une petite faveur : je viens de m'acheter un immeuble de bureaux ici même en ville. Cela semblait être un très bon investissement à l'époque, jusqu'à ce que je remarque la mauvaise qualité des transports publics. Maintenant, je peux très bien m'y rendre en limousine, mais mes employés habituels - les secrétaires et autres - ne sont pas aussi faciles à joindre. Pourriez-vous me donner un coup de main ? Je n'oublie jamais une bonne action !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA05</m_id>
-      <m_text>Thanks, friend! You sure did a mighty fine job! Now all my employees can use public transport – which leaves a whole lot more parking space for my limousine.</m_text>
+      <m_text>Merci, mon ami ! Vous avez vraiment fait du bon travail ! Maintenant, tous mes employés peuvent utiliser les transports publics - ce qui laisse beaucoup plus de place de parking pour ma limousine.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA06</m_id>
-      <m_text>Good day to you. I'm Arnold Pagini, and I'm setting up a new business in your lovely city, but I've run into difficulties. My employees can't get to my office easily. Could you help me?</m_text>
+      <m_text>Bonne journée à vous. Je m'appelle Arnold Pagini et je suis en train de créer une nouvelle entreprise dans votre belle ville, mais j'ai rencontré des difficultés. Mes employés ne peuvent pas se rendre facilement à mon bureau. Pouvez-vous m'aider ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA06</m_id>
-      <m_text>Excellent, simply excellent! I don't know what I'd have done without your help. Please accept this small gift for your trouble.</m_text>
+      <m_text>Excellent, tout simplement excellent ! Je ne sais pas ce que j'aurais fait sans votre aide. Veuillez accepter ce petit cadeau pour votre peine.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA07</m_id>
-      <m_text>I'm Henry, president of the students' association. We've just opened a new student dorm, and it's really far out! I mean, literally… it's far out – and that’s the problem. We need to be able to get there. Do you think you could help us?</m_text>
+      <m_text>Je m'appelle Henry, président de l'association des étudiants. Nous venons d'ouvrir un nouveau dortoir d'étudiants, et c'est vraiment loin ! Je veux dire, littéralement... c'est très loin - et c'est ça le problème. Nous devons être capables d'y arriver. Pensez-vous pouvoir nous aider ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA07</m_id>
-      <m_text>That's great, that did the trick! Thanks!</m_text>
+      <m_text>C'est génial, ça a fait l'affaire ! Merci !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA08</m_id>
-      <m_text>Hey man, how's it goin'? Me an' my bros are lookin' to spread the love, but we bustin' our vibe on account of all them blisters we getting' from our kicks. We lookin' fine, but we need to be chillin' not walkin', y'know what I mean? Think you could add a few lines, so we can keep in touch with our peeps?</m_text>
+      <m_text>Hé mec, comment ça va ? Moi et mes potes, on cherche à se faire aimer, mais on se casse la figure à cause de toutes ces ampoules qu'on se fait en s'éclatant. On a l'air bien, mais on doit se détendre, pas marcher, tu vois ce que je veux dire ? Tu pourrais ajouter quelques lignes, pour qu'on puisse rester en contact avec nos potes ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA08</m_id>
-      <m_text>Dude, you cool! And we're definitely spreadin' the vibe. We chillin'...</m_text>
+      <m_text>Mec, t'es cool ! Et on répand vraiment l'ambiance. On se détend...</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA09</m_id>
-      <m_text>Hello, my name's Fred and I'm the CEO of the leading mobile games company around here. We've just opened a new office and it would be great if you could add a route that connects it to our factory. We would prefer a tram line, but any form of transport would be fine. I hope you can help!</m_text>
+      <m_text>Bonjour, je m'appelle Fred et je suis le PDG de la principale société de jeux pour téléphones portables du coin. Nous venons d'ouvrir un nouveau bureau et ce serait formidable si vous pouviez ajouter une route qui le relie à notre usine. Nous préférerions une ligne de tramway, mais n'importe quel moyen de transport serait bien. J'espère que vous pourrez nous aider !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA09</m_id>
-      <m_text>Excellent. Now our employees can leave their cars at home! Hey, what would you say to free games for the rest of your life?</m_text>
+      <m_text>Excellent. Nos employés peuvent maintenant laisser leur voiture à la maison ! Que diriez-vous de jeux gratuits pour le reste de votre vie ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA10</m_id>
-      <m_text>Could do me a favor? I've just opened a brand new casino -- the biggest one in the city. It has plenty of parking space for limos and such, but I want to attract people from all walks of life. Could you set up a direct route there?</m_text>
+      <m_text>Pourriez-vous me rendre un service ? Je viens d'ouvrir un tout nouveau casino... le plus grand de la ville. Il dispose de nombreuses places de parking pour les limousines et autres, mais je veux attirer des gens de tous horizons. Pourriez-vous mettre en place une route directe là-bas ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA10</m_id>
-      <m_text>Nice work! Now my casino is buzzing with customers and the money is rolling in! Don't worry, we'll see you get your share -- here you go!</m_text>
+      <m_text>Beau travail ! Maintenant, mon casino bourdonne de clients et l'argent afflue ! Ne vous inquiétez pas, nous vous verrons obtenir votre part... voilà !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA11</m_id>
-      <m_text>Sorry to bother you. I'm John and I work at the Great Gadget factory. Me and my mates were just wondering if you'd consider building a line out there. There's a lot of us working at the factory, and we'd all be really grateful if you could help us out. Any form of transportation will do – we're not picky!</m_text>
+      <m_text>Désolé de vous déranger. Je m'appelle John et je travaille à l'usine de Great Gadget. Mes collègues et moi, on se demandait si vous envisageriez de construire une ligne là-bas. Nous sommes nombreux à travailler à l'usine, et nous vous serions tous très reconnaissants de nous aider. N'importe quel moyen de transport fera l'affaire - nous ne sommes pas difficiles !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA11</m_id>
-      <m_text>Thanks a bunch! Everyone at the factory is really happy with the new route! Even the boss said she was thinking of using public transport instead taking her car!</m_text>
+      <m_text>Merci beaucoup ! Tout le monde à l'usine est vraiment content de la nouvelle route ! Même le patron a dit qu'elle pensait utiliser les transports publics au lieu de prendre sa voiture !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA12</m_id>
-      <m_text>Good day. I own practically all the casinos in the city and I've come to ask for your assistance with a small matter. Most of my potential customers choose to stay a certain five star hotel (I think you know which one I'm referring to...). Could you make sure that they have easy access to the casino?</m_text>
+      <m_text>Bonne journée. Je possède pratiquement tous les casinos de la ville et je suis venu vous demander votre aide pour une petite affaire. La plupart de mes clients potentiels choisissent de séjourner dans un certain hôtel cinq étoiles (je pense que vous savez de quel hôtel je parle...). Pourriez-vous vous assurer qu'ils ont un accès facile au casino ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA12</m_id>
-      <m_text>Well done! And please, if ever you're in need if a little relaxation, drop by my casino – I can offer you a wonderful deal!</m_text>
+      <m_text>Bravo ! Et s'il vous plaît, si jamais vous avez besoin d'un peu de détente, passez me voir au casino - je peux vous proposer une merveilleuse affaire !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA13</m_id>
-      <m_text>Hi, I'm Paul -- a student at the University. I need to talk to you about something. The students were promised a new metro line a few years back, but I guess someone just forgot about it. We still need to get around and I thought perhaps since you're in charge now, maybe you'd set up a line for us? Anything will do – as long as it's cheap!</m_text>
+      <m_text>Bonjour, je m'appelle Paul, je suis étudiant à l'université. J'ai besoin de vous parler de quelque chose. On a promis aux étudiants une nouvelle ligne de métro il y a quelques années, mais je suppose que quelqu'un l'a simplement oubliée. Nous avons encore besoin de nous déplacer et je me suis dit que puisque vous êtes en charge maintenant, vous pourriez peut-être nous installer une ligne ? N'importe quoi fera l'affaire - tant que c'est bon marché !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA13</m_id>
-      <m_text>Sweet, this'll make our lives much easier! Thank you! We won't forget this…</m_text>
+      <m_text>Super, ça va nous faciliter la vie ! Merci ! Nous n'oublierons pas ça...</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA14</m_id>
-      <m_text>Nice to meet you. I'm Larry, chairman of the cycling club. We've been fans of your trams for quite a while and we'd like you to purchase a few more of them. You see, they make our lives easier -- fewer cars on the road!</m_text>
+      <m_text>Ravi de vous rencontrer. Je suis Larry, président du club de cyclisme. Nous sommes fans de vos trams depuis un certain temps et nous aimerions que vous en achetiez d'autres. Vous voyez, ils nous facilitent la vie : moins de voitures sur la route !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA14</m_id>
-      <m_text>Thanks! Now the city's a nicer -- and safer --place to cycle!</m_text>
+      <m_text>Merci ! La ville est maintenant un endroit plus agréable - et plus sûr - pour faire du vélo !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA15</m_id>
-      <m_text>Hello! I purchased some office buildings a couple years back and now it seems my investment is finally paying off. I'd like to get the highest price possible when I sell, and in order for that to happen the buildings need good local transport connections. Do you think you could help me?</m_text>
+      <m_text>Bonjour ! J'ai acheté des immeubles de bureaux il y a quelques années et maintenant il semble que mon investissement soit enfin rentable. J'aimerais obtenir le prix le plus élevé possible lorsque je vendrai, et pour cela, les immeubles doivent être bien desservis par les transports locaux. Pensez-vous pouvoir m'aider ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA15</m_id>
-      <m_text>Many thanks. Great work. The property value is sure to sky-rocket now that they're so well served by public transportation.</m_text>
+      <m_text>Merci beaucoup. Bon travail. La valeur de la propriété va certainement monter en flèche maintenant qu'elle est si bien desservie par les transports publics.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA16</m_id>
-      <m_text>Hi, my name's Vito and I've got a problem only you can fix. I've made a deal with few of the local shopkeepers to send some customers their way. The best way to make this happen, of course, is to make sure the customers can reach the shops easily. So you see, public transportation is the key. Could you build a line for us? I'm sure this route would attract many, many passengers, so it would be a good deal for you too.</m_text>
+      <m_text>Salut, je m'appelle Vito et j'ai un problème que toi seul peux régler. J'ai passé un accord avec quelques commerçants locaux pour qu'ils envoient quelques clients. Le meilleur moyen d'y parvenir, bien sûr, est de faire en sorte que les clients puissent se rendre facilement dans les magasins. Vous voyez donc que les transports publics sont la clé du problème. Pourriez-vous nous construire une ligne ? Je suis sûr que cette ligne attirerait beaucoup, beaucoup de passagers, donc ce serait une bonne affaire pour vous aussi.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA16</m_id>
-      <m_text>Great, the line is working beautifully! I'm sure you'll make a huge profit, but here's a little something extra for your trouble.</m_text>
+      <m_text>Super, la ligne fonctionne à merveille ! Je suis sûr que vous ferez un énorme profit, mais voici un petit plus pour votre peine.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA17</m_id>
-      <m_text>Howdy, partner. I see you've been doin' very well for yourself around here. Mighty nice work! Now, I've a small favor to ask: I'm fixin' to bring in some of my luxury goods to sell but, to my mind, the shops in these parts need better connections. Do you think you could see your way to helpin' me out?</m_text>
+      <m_text>Salut, partenaire. Je vois que tu te débrouilles très bien par ici. Du beau travail ! Maintenant, j'ai une petite faveur à vous demander : je m'apprête à faire entrer certains de mes produits de luxe pour les vendre mais, à mon avis, les magasins de ces régions ont besoin de meilleures connexions. Pensez-vous que vous pourriez m'aider ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA17</m_id>
-      <m_text>Well now… My goods are selling like hot cakes! Business sure is booming, and I hope yours does likewise. I owe you one, partner!</m_text>
+      <m_text>Eh bien maintenant... Mes marchandises se vendent comme des petits pains ! Les affaires sont en plein essor, et j'espère que les vôtres en feront autant. Je te suis redevable, partenaire !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA18</m_id>
-      <m_text>Salaam! I am Hussein. I am trying to set up some offices, because I believe this city is destined to be one of the greatest in the world. Sadly, the finest buildings are a bit too far apart. Do you think you could put in some connections? I would be most grateful!</m_text>
+      <m_text>Salaam ! Je suis Hussein. J'essaie de mettre en place des bureaux, parce que je crois que cette ville est destinée à être l'une des plus grandes du monde. Malheureusement, les plus beaux bâtiments sont un peu trop éloignés les uns des autres. Pensez-vous que vous pourriez établir des liens ? Je vous en serais très reconnaissant !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA18</m_id>
-      <m_text>Excellent! Splendid! You are doing a fine job, I tell you! My offices are now the pride of the company.</m_text>
+      <m_text>Excellent ! Splendide ! Vous faites un excellent travail, je vous le dis ! Mes bureaux sont maintenant la fierté de l'entreprise.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA19</m_id>
-      <m_text>Ciao! I am Giovanni, the greatest artist in all of Italy, no, in the whole world! I will give to you the honor of performing a simple task – my favorite theater requires better connections. Yes, I choose you to be the fortunate one to build a new line there!</m_text>
+      <m_text>Ciao ! Je suis Giovanni, le plus grand artiste de toute l'Italie, non, du monde entier ! Je vous ferai l'honneur d'accomplir une tâche simple - mon théâtre préféré exige de meilleures relations. Oui, je vous choisis pour que vous soyez l'heureux élu qui y construira une nouvelle ligne !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA19</m_id>
-      <m_text>What now? I'm in the middle of something important! Oh, it's only you. Please to excuse the tar and feathers. I am practicing for my next performance. It is good that you got the job done, now that is all… ciao!</m_text>
+      <m_text>Et maintenant ? Je suis au milieu de quelque chose d'important ! Oh, il n'y a que toi. Veuillez excuser le goudron et les plumes. Je m'entraîne pour ma prochaine représentation. C'est bien que vous ayez fait le travail, maintenant c'est tout... ciao !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA20</m_id>
-      <m_text>Listen, could you help me out? Lately I've been dreaming I was on a bus driving though my old neighborhood. Could you put in a line that runs through the areas where I grew up?</m_text>
+      <m_text>Ecoutez, vous pourriez m'aider ? Ces derniers temps, je rêve que je suis dans un bus qui traverse mon ancien quartier. Pourriez-vous mettre une ligne qui traverse les quartiers où j'ai grandi ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA20</m_id>
-      <m_text>Ah, that was wonderful -- it was all just as I remembered! Thank you so much!</m_text>
+      <m_text>Ah, c'était merveilleux - tout était comme dans mes souvenirs ! Merci beaucoup !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA21</m_id>
-      <m_text>Good day to you! I run a cinema here in the city – a proper art cinema, that is... We only screen the latest Asian art films, along with the occasional classic or two. For our opening night we intend to premier a real gem – a 4 hour film documenting daily life in a small Chinese village. It's too good to miss! I was hoping you could help me with the transportation arrangements, since naturally I'm expecting a horde of viewers to show up. It would be a service to Art if you could set up a line for my patrons. Do you think you could help me out?</m_text>
+      <m_text>Bonne journée à vous ! Je dirige un cinéma ici en ville - un véritable cinéma d'art et d'essai, c'est-à-dire... Nous ne projetons que les derniers films d'art asiatiques, ainsi que quelques classiques. Pour notre soirée d'ouverture, nous avons l'intention de présenter un vrai bijou - un film de 4 heures qui documente la vie quotidienne dans un petit village chinois. C'est trop beau pour le manquer ! J'espérais que vous pourriez m'aider à organiser le transport, car j'attends naturellement une horde de spectateurs. Ce serait un service rendu à Art si vous pouviez mettre en place une ligne pour mes mécènes. Pensez-vous que vous pourriez m'aider ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA21</m_id>
-      <m_text>Ah, just in time! The film is about to start! Thank you so much for helping me – it means a lot.</m_text>
+      <m_text>Ah, juste à temps ! Le film est sur le point de commencer ! Merci beaucoup de m'avoir aidé - cela signifie beaucoup.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA22</m_id>
-      <m_text>Hello, I'm Celine, and I own of some of the largest hotels in the city. I'm trying to steer my enterprises in a more environmentally friendly direction and having good public transport connections would be a great start. I'm planning to offer all my employees a raise if they switch to public transport – so I believe you could benefit from this also. All I ask is that you ensure my businesses are easy to reach!</m_text>
+      <m_text>Bonjour, je m'appelle Céline et je suis propriétaire de certains des plus grands hôtels de la ville. J'essaie d'orienter mes entreprises dans une direction plus respectueuse de l'environnement et avoir de bonnes connexions avec les transports publics serait un bon début. J'envisage d'offrir à tous mes employés une augmentation s'ils passent aux transports publics - je pense donc que vous pourriez également en profiter. Tout ce que je vous demande, c'est de veiller à ce que mes entreprises soient faciles d'accès !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA22</m_id>
-      <m_text>Thanks, that's great! There's already an increase in the number of customers. And don't worry, I haven't forgotten about you: here's a little something for helping me out!</m_text>
+      <m_text>Merci, c'est super ! Il y a déjà une augmentation du nombre de clients. Et ne vous inquiétez pas, je ne vous ai pas oublié : voici un petit quelque chose pour m'aider !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomA23</m_id>
-      <m_text>I'm part of a nature awareness association and we need your help: our new meeting place is really hard to get to! Ideally we'd prefer to travel there by bus, but it would have to be one with low emissions to cut down on pollution... Oh, and it should drive slowly to allow our furry friends time to get off the road! Could you help us?</m_text>
+      <m_text>Je fais partie d'une association de sensibilisation à la nature et nous avons besoin de votre aide : notre nouveau lieu de rencontre est vraiment difficile d'accès ! Dans l'idéal, nous préférerions y aller en bus, mais il faudrait que ce soit un bus à faibles émissions pour réduire la pollution... Oh, et il devrait rouler lentement pour permettre à nos amis à fourrure de sortir de la route ! Pourriez-vous nous aider ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomA23</m_id>
-      <m_text>Thank you! We really love the new line. There are some totally amazing views along the route and the drivers all seem to be genuine nature lovers, since they drive nice and slowly. One even stopped to allow a family of ducks to cross the road!</m_text>
+      <m_text>Merci ! Nous aimons vraiment la nouvelle ligne. Il y a des points de vue totalement étonnants le long de l'itinéraire et les conducteurs semblent tous être de véritables amoureux de la nature, puisqu'ils conduisent gentiment et lentement. L'un d'entre eux s'est même arrêté pour permettre à une famille de canards de traverser la route !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB01</m_id>
-      <m_text>Oh, quelle horror! My latest exhibition is scheduled to open soon, but for some reason my audience has proved too dense to interpret my dada-influenced advertisements correctly. They have no idea where the exhibition is being held! I need mass transit to get everyone there – even if they have shown themselves to be unworthy of my sophisticated art!</m_text>
+      <m_text>Oh, quelle horreur ! Ma dernière exposition doit ouvrir bientôt, mais pour une raison quelconque, mon public s'est avéré trop dense pour interpréter correctement mes publicités influencées par mon père. Ils n'ont aucune idée de l'endroit où se tient l'exposition ! J'ai besoin des transports en commun pour que tout le monde puisse s'y rendre - même s'ils se sont montrés indignes de mon art sophistiqué !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB01</m_id>
-      <m_text>The exhibition is poised for its grand opening and finally it has the large audience it deserves. They should be quivering in anticipation -- a multi-sensory spectacle featuring rotten eggs and hamsters awaits them!</m_text>
+      <m_text>L'exposition est sur le point d'être inaugurée et elle a enfin le grand public qu'elle mérite. Ils devraient frémir d'impatience : un spectacle multisensoriel mettant en scène des œufs pourris et des hamsters les attend !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB02</m_id>
-      <m_text>I'm Mr. Mackay from the Agricultural Association. We recently opened a new office in town. Could you ensure that we can travel freely between the office and our main headquarters? It would save us a lot of time and we would be willing to compensate you for your trouble.</m_text>
+      <m_text>Je suis M. Mackay, de l'Association agricole. Nous avons récemment ouvert un nouveau bureau en ville. Pourriez-vous faire en sorte que nous puissions nous déplacer librement entre le bureau et notre siège principal ? Cela nous ferait gagner beaucoup de temps et nous serions prêts à vous dédommager pour votre peine.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB02</m_id>
-      <m_text>Wonderful, this will save the Agricultural Association a great deal of time and money. Oh, and don't worry, your check is in the mail!</m_text>
+      <m_text>Merveilleux, cela permettra à l'association agricole d'économiser beaucoup de temps et d'argent. Oh, et ne vous inquiétez pas, votre chèque est à la poste !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB03</m_id>
-      <m_text>The Filthy Rich Club is organizing its annual outing -- we like to travel around the city just like an 'average Joe'. However, we are having a problem reaching our desired locations... Do you think you could help us?</m_text>
+      <m_text>Le Filthy Rich Club organise sa sortie annuelle : nous aimons nous promener dans la ville comme un "homme ordinaire". Cependant, nous avons des difficultés à atteindre les endroits que nous souhaitons... Pensez-vous pouvoir nous aider ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB03</m_id>
-      <m_text>The trip was a huge success -- a real lark! Thank you!</m_text>
+      <m_text>Le voyage a été un grand succès - une vraie alouette ! Merci !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB04</m_id>
-      <m_text>Good morning! I must speak with you concerning an urgent matter! I have an important mission for you -- provided you are willing to take the necessary risks. First, I must have your word that this conversation will remain entirely confidential. This matter is top secret, you understand. Very well, the issue is this: we have several undercover offices in secret locations throughout the city center, but having our service vehicles coming and going at all hours is beginning to attract unwanted attention. The solution: public transport. Your country needs you to add a new line!</m_text>
+      <m_text>Bonjour ! Je dois vous parler d'une affaire urgente ! J'ai une mission importante pour vous - à condition que vous soyez prêts à prendre les risques nécessaires. Tout d'abord, je dois avoir votre parole que cette conversation restera entièrement confidentielle. Cette affaire est top secrète, vous comprenez. Très bien, le problème est le suivant : nous avons plusieurs bureaux d'infiltration dans des endroits secrets du centre ville, mais le fait que nos véhicules de service vont et viennent à toute heure commence à attirer une attention indésirable. La solution : les transports publics. Votre pays a besoin que vous ajoutiez une nouvelle ligne !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB04</m_id>
-      <m_text>Splendid, our cover is no longer under threat. Thank you for your dedication – it will not go unrewarded!</m_text>
+      <m_text>Splendide, notre couverture n'est plus menacée. Merci pour votre dévouement - il ne sera pas sans récompense !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB05</m_id>
-      <m_text>We represent the youth of the city and we demand a better public transportation system to guarantee the future of our beloved city. We want to see it develop and become prosperous and important. Build more lines now!</m_text>
+      <m_text>Nous représentons la jeunesse de la ville et nous demandons un meilleur système de transport public pour garantir l'avenir de notre ville bien-aimée. Nous voulons la voir se développer et devenir prospère et importante. Construisez plus de lignes maintenant !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB05</m_id>
-      <m_text>Good, now the younger population is free to move without borders! Thank you for your time and effort.</m_text>
+      <m_text>Bien, maintenant la jeune population est libre de se déplacer sans frontières ! Merci pour votre temps et vos efforts.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB06</m_id>
-      <m_text>Hey man, Paulie here! Dude, are we in trouble!! The Rainbow Community Collective just got this new house – it's totally wicked, y'know, but it's too far away! You think you could help us? Maybe put in a bus stop over there and, like, another one over here? You gotta help us out, man...</m_text>
+      <m_text>Hé mec, c'est Paulie ! Mec, on est dans le pétrin !! Le Collectif de la Communauté Arc-en-ciel vient d'avoir cette nouvelle maison - c'est vraiment génial, vous savez, mais c'est trop loin ! Vous pensez que vous pouvez nous aider ? Peut-être en mettant un arrêt de bus là-bas et un autre ici ? Tu dois nous aider, mec...</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB06</m_id>
-      <m_text>Awesome! Now we're sure to have way more folk coming to our gatherings. Truth is, we've been a bit short of members recently...</m_text>
+      <m_text>Génial ! Maintenant, nous sommes sûrs que beaucoup plus de gens viendront à nos rassemblements. La vérité est que nous avons été un peu à court de membres récemment...</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB07</m_id>
-      <m_text>I am readying myself for what is bound to be my Greatest Work Ever! It’s going to be a live performance, right here in the city -- how thrilling! Picture this: me, simply slathered in honey, and five hundred bees – people won’t be able to take their eyes off the stage! Of course, it’s a stark, chillingly artistic representation, designed to explore the true essence of humanity in the modern world. As ever, the plebs in the audience probably won’t be able to find their own way to the event (yawn!), so could you be a dear and help them? We wouldn’t want them to miss it now, would we?</m_text>
+      <m_text>Je me prépare à ce qui sera sans doute ma plus grande œuvre ! Ce sera un spectacle en direct, ici même dans la ville - comme c'est excitant ! Imaginez : moi, simplement enduit de miel, et cinq cents abeilles - les gens ne pourront pas quitter la scène des yeux ! Bien sûr, il s'agit d'une représentation artistique austère et effrayante, conçue pour explorer la véritable essence de l'humanité dans le monde moderne. Comme toujours, les plèbes du public ne pourront probablement pas trouver leur propre chemin jusqu'à l'événement (bâillement !), alors pourriez-vous être un amour et les aider ? Nous ne voudrions pas qu'ils manquent ça maintenant, n'est-ce pas ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB07</m_id>
-      <m_text>Oh, peachy, darling, thanks ever so! My audience is starting to gather – and just in time, too... My bees are getting restless.</m_text>
+      <m_text>Oh, génial, chéri, merci beaucoup ! Mon public commence à se rassembler - et juste à temps, aussi... Mes abeilles s'agitent.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB08</m_id>
-      <m_text>I represent the Modern Ladies Association and, on behalf of my fellow women, I would like to make a request. We have several small offices located around the city in order to be easily accessible to all the good folk engaged in their daily battle for equality. It would be invaluable to our cause if all our offices were linked by a direct line – then our employees could move easily from office to office, as needed.</m_text>
+      <m_text>Je représente la Modern Ladies Association et, au nom de mes consœurs, je voudrais faire une demande. Nous avons plusieurs petits bureaux situés dans la ville afin d'être facilement accessibles à toutes les bonnes gens engagées dans leur combat quotidien pour l'égalité. Il serait inestimable pour notre cause que tous nos bureaux soient reliés par une ligne directe - nos employés pourraient alors se déplacer facilement d'un bureau à l'autre, selon les besoins.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB08</m_id>
-      <m_text>I, and the MLA, thank you! This will greatly assist our whole association. It was a pleasure working with you.</m_text>
+      <m_text>Moi, et le MLA, merci ! Cela va grandement aider toute notre association. Ce fut un plaisir de travailler avec vous.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB09</m_id>
-      <m_text>Hello, I understand you are in charge of public transport? I'd like to ask for a favor: I've been watching grow the city since its infancy and I'd like to see it become even bigger than it is now.</m_text>
+      <m_text>Bonjour, vous êtes responsable des transports publics ? J'aimerais vous demander une faveur : j'observe la croissance de la ville depuis ses débuts et j'aimerais la voir devenir encore plus grande qu'elle ne l'est aujourd'hui.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB09</m_id>
-      <m_text>Thank you! You're the best! I'm sure you've got more customers now, too!</m_text>
+      <m_text>Merci ! Vous êtes les meilleurs ! Je suis sûr que vous avez aussi plus de clients maintenant !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB10</m_id>
-      <m_text>Hey there… Me and the lads are only laborers, but we're your best customers, y'know - after all, we're lost without public transport. Could you help us out a bit?</m_text>
+      <m_text>Hé là... Moi et les gars, on n'est que des ouvriers, mais on est vos meilleurs clients, vous savez - après tout, on est perdu sans les transports publics. Tu pourrais nous aider un peu ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB10</m_id>
-      <m_text>Thanks, you've really made life a bit easier for us workers!</m_text>
+      <m_text>Merci, vous avez vraiment rendu la vie un peu plus facile pour nous, les travailleurs !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB11</m_id>
-      <m_text>I say! You there! Stand up straight and pay attention, young man... The residents at the Old and Wrinkly want to be able to get to their favorite shop -- they have the cheapest potatoes in town, so it's important. The way prices are going up these days is simply shocking! So it's your job to put in a line there, see?!</m_text>
+      <m_text>Je le dis ! Vous, là ! Tenez-vous droit et faites attention, jeune homme... Les habitants du Old and Wrinkly veulent pouvoir se rendre à leur magasin préféré : ils ont les pommes de terre les moins chères de la ville, c'est donc important. La façon dont les prix augmentent ces jours-ci est tout simplement choquante ! C'est donc à vous de faire la queue là-bas, vous voyez ?!</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB11</m_id>
-      <m_text>Hrrrumph! About time! Those potatoes had better still be on sale!</m_text>
+      <m_text>Hrrrumph ! Il était temps ! Ces pommes de terre ont intérêt à être encore en vente !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB12</m_id>
-      <m_text>Hello, I'd like to ask a bit of a favor. I lost my job and now I don't have anything to do all day, so my friends and I came up with the idea of a line going all round the city, so people could go sightseeing. I'm sure it would make you a ton of money – and I'm giving you my idea for free!</m_text>
+      <m_text>Bonjour, j'aimerais vous demander une petite faveur. J'ai perdu mon travail et maintenant je n'ai plus rien à faire de la journée, alors mes amis et moi avons eu l'idée d'une ligne qui ferait le tour de la ville, pour que les gens puissent faire du tourisme. Je suis sûr que cela vous rapporterait une tonne d'argent - et je vous donne mon idée gratuitement !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB12</m_id>
-      <m_text>Great, I'll ride the line every day!</m_text>
+      <m_text>Super, je vais faire la queue tous les jours !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB13</m_id>
-      <m_text>Let me just say what a fine city you have here! I'd love to see more of it, but it appears that there is no line at present that will take me to my intended destination. Maybe you would consider building one?</m_text>
+      <m_text>Laissez-moi vous dire que vous avez une belle ville ici ! J'aimerais en voir plus, mais il semble qu'il n'y ait pas de file d'attente actuellement pour me rendre à ma destination prévue. Peut-être envisageriez-vous d'en construire une ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB13</m_id>
-      <m_text>Wow, quick work! That's really impressive! I can't wait to see what I've been missing!</m_text>
+      <m_text>Wow, du travail rapide ! C'est vraiment impressionnant ! J'ai hâte de voir ce que j'ai manqué !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB14</m_id>
-      <m_text>Good day to you. I'm looking to make a deal. I work for a company that has its two main offices in the city, and traveling back and forth between them is inefficient and time consuming. A new connecting line would make the commute more convenient and save me a significant amount of time. I'm willing to offer a substantial financial incentive in return for your cooperation. What's your answer?</m_text>
+      <m_text>Bonne journée à vous. Je cherche à conclure un marché. Je travaille pour une entreprise qui a ses deux principaux bureaux en ville, et les allers-retours entre eux sont inefficaces et prennent beaucoup de temps. Une nouvelle ligne de correspondance rendrait les déplacements plus pratiques et me ferait gagner beaucoup de temps. Je suis prêt à offrir une incitation financière substantielle en échange de votre coopération. Quelle est votre réponse ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB14</m_id>
-      <m_text>Excellent work! Time is money, you know! Here's a small token of our appreciation!</m_text>
+      <m_text>Excellent travail ! Le temps, c'est de l'argent, vous savez ! Voici un petit témoignage de notre reconnaissance !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB15</m_id>
-      <m_text>Hi, me and the girls were just wondering if you were planning to add a direct line from the factory to the city center? We'd love to be able to pop into town for lunch and do some shopping every now and then. Do you think you could look into it?</m_text>
+      <m_text>Salut, les filles et moi, on se demandait si vous envisagiez d'ajouter une ligne directe entre l'usine et le centre ville ? Nous aimerions pouvoir passer en ville pour déjeuner et faire quelques courses de temps en temps. Pensez-vous que vous pourriez vous en occuper ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB15</m_id>
-      <m_text>That’s awfully nice of you, thanks! Now we don't have to eat that dreadful cafeteria food!</m_text>
+      <m_text>C'est très gentil de votre part, merci ! Maintenant, nous n'avons plus besoin de manger cette horrible nourriture de cafétéria !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB16</m_id>
-      <m_text>Listen, I'm in a terrible hurry right now and this traffic is killing me! Could you make sure there's an easy way for me to get to work from my home? I'll make sure there's a little something in it for you!</m_text>
+      <m_text>Écoutez, je suis terriblement pressé en ce moment et ce trafic me tue ! Pourriez-vous faire en sorte qu'il y ait un moyen facile pour moi de me rendre au travail depuis chez moi ? Je vais m'assurer qu'il y a un petit quelque chose pour vous !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB16</m_id>
-      <m_text>Good job, well done! This will cut my commute time in half and allow me to spend more time at my desk.</m_text>
+      <m_text>Bon travail, bien joué ! Cela réduira de moitié mes déplacements et me permettra de passer plus de temps à mon bureau.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB17</m_id>
-      <m_text>Hello, I'd like to request a line going from my house and my favorite shopping plaza. I'm sure a lot of other people would use it too -- in fact I've already told all my neighbors it's great place to shop!</m_text>
+      <m_text>Bonjour, je voudrais demander une ligne allant de ma maison et de mon centre commercial préféré. Je suis sûr que beaucoup d'autres personnes l'utiliseraient aussi - en fait, j'ai déjà dit à tous mes voisins que c'est un endroit formidable pour faire du shopping !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB17</m_id>
-      <m_text>Thanks! I'm on my way to do some shopping right now!</m_text>
+      <m_text>Merci ! Je suis en route pour faire quelques courses en ce moment même !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB18</m_id>
-      <m_text>Please could you help me? I don't have a car and my best friend has just bought a new house that's not within walking distance. I really miss chatting with her – and sharing her yummy cookies! Do you think you could you add a route going over there?</m_text>
+      <m_text>Pourriez-vous m'aider ? Je n'ai pas de voiture et mon meilleur ami vient d'acheter une nouvelle maison qui n'est pas accessible à pied. Cela me manque vraiment de discuter avec elle - et de partager ses délicieux biscuits ! Pourriez-vous ajouter un itinéraire pour aller là-bas ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB18</m_id>
-      <m_text>Thanks, I'll send you some cookies!</m_text>
+      <m_text>Merci, je vous enverrai des biscuits !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB19</m_id>
-      <m_text>Hello, I was wondering if you'd mind looking into something for me. My car broke down and I need to get to work somehow... Do you think you could put in a direct line? It would be a great help.</m_text>
+      <m_text>Bonjour, je me demandais si vous pouviez vous renseigner sur quelque chose pour moi. Ma voiture est tombée en panne et je dois aller travailler d'une manière ou d'une autre... Pensez-vous que vous pourriez mettre une ligne directe ? Ce serait d'une grande aide.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB19</m_id>
-      <m_text>Thanks ever so much! Now I can get to work, no problem! In fact, I’m even considering selling my car once I've had it repaired.</m_text>
+      <m_text>Merci beaucoup ! Maintenant je peux me mettre au travail, pas de problème ! En fait, j'envisage même de vendre ma voiture une fois qu'elle aura été réparée.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB20</m_id>
-      <m_text>Hello dearie! Well now... on Wednesdays me and a few other seniors like to go down to the bingo hall to play a bit of bingo together, but lately it seems like we've lost some of our regulars. Some folks are saying it’s simply too hard to get there these days, so I thought I’d give you a call and see if you might be able to help us out!</m_text>
+      <m_text>Bonjour, ma chère ! Eh bien maintenant... le mercredi, moi et quelques autres seniors aimons descendre à la salle de bingo pour jouer un peu de bingo ensemble, mais ces derniers temps, il semble que nous ayons perdu certains de nos habitués. Certaines personnes disent qu'il est tout simplement trop difficile d'y aller ces jours-ci, alors j'ai pensé que je pourrais vous appeler pour voir si vous pourriez nous aider !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB20</m_id>
-      <m_text>Bingo! Bless you, dearie, now our bingo nights are packed!</m_text>
+      <m_text>Bingo ! Soyez bénis, ma chère, maintenant nos soirées bingo sont complètes !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB21</m_id>
-      <m_text>Hi, I've come to ask you a favor. Me and some mates of mine from college get together to play board games on Saturdays for a bit of a laugh. But some are calling it off on account of the trek. It would be totally awesome if you could make sure they could all get here without any bother. Thanks, mate – I owe you.</m_text>
+      <m_text>Bonjour, je suis venu vous demander une faveur. Moi et quelques copains de l'université, on se réunit le samedi pour jouer à des jeux de société et pour rigoler un peu. Mais certains annulent à cause de la randonnée. Ce serait vraiment génial si vous pouviez vous assurer qu'ils puissent tous arriver ici sans encombre. Merci, mon pote - je te suis redevable.</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB21</m_id>
-      <m_text>Thanks, now we’ve enough players to stage a weekend-long Monopoly fest!</m_text>
+      <m_text>Merci, maintenant nous avons assez de joueurs pour organiser un week-end de fête du Monopoly !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB22</m_id>
-      <m_text>That’s it! I’ve finally decided to get rid of my car! There's just one thing still stopping me – I have to visit my mother now and then and she lives really far away. You'll help me out, won’t you? I really want to get rid of that car!</m_text>
+      <m_text>C'est tout ! J'ai enfin décidé de me débarrasser de ma voiture ! Une seule chose m'arrête encore : je dois rendre visite à ma mère de temps en temps et elle habite très loin. Tu vas m'aider, n'est-ce pas ? Je veux vraiment me débarrasser de cette voiture !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB22</m_id>
-      <m_text>Thanks, the car is up for sale even as we speak! Nothing but public transport for me from now on!</m_text>
+      <m_text>Merci, la voiture est à vendre en ce moment même ! Pour moi, il n'y a plus que les transports publics à partir de maintenant !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_DESCRIPTION_RandomB23</m_id>
-      <m_text>I've got a new job, but since my car broke down I've been finding the commute stressful. I really miss my car – it ran on horse manure so the engine was really quiet. It smelled a bit pongy though... Anyway, do you think you could you help me to get to work?</m_text>
+      <m_text>J'ai un nouveau travail, mais depuis que ma voiture est en panne, je trouve le trajet stressant. Ma voiture me manque vraiment - elle roulait au fumier de cheval, donc le moteur était vraiment silencieux. Mais elle sentait un peu le pongy... Bref, tu pourrais m'aider à aller au travail ?</m_text>
    </LocaleData>
    <LocaleData>
       <m_id>OBJECTIVE_PASSED_RandomB23</m_id>
-      <m_text>Thank you! That's much more comfortable than my old car -- and it smells fresher too!</m_text>
+      <m_text>Merci ! C'est beaucoup plus confortable que ma vieille voiture - et ça sent plus frais aussi !</m_text>
    </LocaleData>
    <LocaleData>
       <m_id/>
